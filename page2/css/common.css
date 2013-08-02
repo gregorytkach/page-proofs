@@ -9,7 +9,7 @@ body.defaultBody
 /*TODO: remove*/
 div.bodyFilter
 {
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(3, 12, 28, 0.7);
     width: 100%;
     height: 100%;
 
@@ -20,4 +20,5 @@ div.bodyFilter
 div.content
 {
     width: 1200px;
+    margin: 0 auto;
 }
