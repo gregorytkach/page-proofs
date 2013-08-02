@@ -1,10 +1,28 @@
 div.header
 {
-    background: url("../assets/header/background.png");
+    background: url("../assets/header/background.png") no-repeat;
 
-    width: 1498px;
-    height: 592px;
+    width: 1200px;
+    height: 620px;
 
     margin: 0 auto;
 
+}
+
+div.header_text
+{
+    width: 100%;
+    height: 60px;
+}
+
+div.header_video_container
+{
+    background: linear-gradient(to bottom, #ffffff 0%, #cdcbcb 100%);
+
+    width: 640px;
+    height: 390px;
+
+    border-radius: 3px;
+
+    margin: 0 auto;
 }
