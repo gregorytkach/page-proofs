@@ -2,3 +2,8 @@ body.defaultBody
 {
     background: url("../assets/body/background.jpg");
 }
+
+div.content
+{
+    width: 1200px;
+}
