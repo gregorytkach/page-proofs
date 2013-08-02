@@ -2,6 +2,15 @@ div.header
 {
     background: url("../assets/header/background.png");
 
-    width: 1753px;
-    height: 716px;
+    width: 1498px;
+    height: 592px;
+
+    margin: 0 auto;
+}
+
+div.headerFilter
+{
+    width: 211px;
+    height: 592px;
+
 }
