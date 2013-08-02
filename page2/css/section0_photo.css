@@ -1,7 +1,7 @@
 div.section_0
 {
     width: 100%;
-    height: 728px;
+    height: 923px;
 }
 
 div.section_0_photo_0
@@ -12,12 +12,29 @@ div.section_0_photo_0
     height: 382px;
 }
 
+div.section_0_photo_0_text
+{
+    width: 600px;
+    height: 340px;
+
+    margin-left: 500px;
+}
+
 div.section_0_photo_1
 {
     background: url("../assets/section0/photo1.jpg");
 
     width: 1200px;
     height: 326px;
+}
+
+
+div.section_0_photo_1_text
+{
+    width: 630px;
+    height: 270px;
+
+    margin-left: 125px;
 }
 
 div.section_0_text
@@ -48,4 +65,24 @@ img.section_0_text_image
 {
     float: right;
     padding: 0 50px 0 0;
+}
+
+div.section_0_button_registration
+{
+    background: url("../assets/section0/button_registration.png") no-repeat top left;
+
+    width: 541px;
+    height: 66px;
+
+    margin-left: 330px;
+}
+
+div.section_0_button_registration:hover
+{
+    background: url("../assets/section0/button_registration_hover.png") no-repeat top left;
+
+    width: 541px;
+    height: 66px;
+
+    margin-left: 330px;
 }
