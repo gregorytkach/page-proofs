@@ -1,0 +1,62 @@
+
+
+div.section100
+{
+    height: 120px;
+    width: 100%;
+
+    background: linear-gradient(to bottom, #00b3c3 0%, #00cddc 30%, #00eeff 100%);
+}
+
+div.section101
+{
+    height: 270px;
+    width: 100%;
+
+    background-color: #005b68;
+    padding-top: 10px;
+}
+
+ul.list_with_blue_square
+{
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+ul.list_with_blue_square    li
+{
+    background: url("../assets/common/list_item_blue_square.gif") top left no-repeat;
+    padding-left: 50px;
+    margin-top: 20px;
+    list-style-type: none;
+    line-height: 120%;
+}
+
+div.section102
+{
+    height: 40px;
+    width: 100%;
+    padding: 40px 0;
+
+}
+
+div.line_darkblue
+{
+    height: 63px;
+    width: 100%;
+
+}
+
+div.line_gray
+{
+    height: 61px;
+    width: 100%;
+
+}
+
+div.section103_question
+{
+    height: 60px;
+    width: 100%;
+
+}
