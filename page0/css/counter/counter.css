@@ -1,0 +1,30 @@
+#counter
+{
+    width: 809px;
+    height: 95px;
+
+    margin: 0;
+
+    text-align: center;
+}
+
+div.counter_entry
+{
+    background: url("../../assets/counter/counter_background.png");
+    width: 231px;
+    height: 72px;
+
+    position: relative;
+    left: 280px;
+}
+
+#counter_text
+{
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+
+    margin-bottom: 6px;
+
+    color: #ffffff;
+}

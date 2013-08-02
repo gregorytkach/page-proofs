@@ -1,0 +1,38 @@
+/*button order*/
+
+div.button_order_152x56
+{
+    background: url("../../assets/header/buttons/order/button_order_152x56.png");
+    width: 152px;
+    height: 56px;
+}
+
+div.button_order_152x56:active
+{
+    background: url("../../assets/header/buttons/order/button_order_152x56_clicked.png");
+    width: 152px;
+    height: 56px;
+}
+
+/*button order*/
+
+div.button_order_212x80
+{
+    background: url("../../assets/header/buttons/order/button_order_212x80.png");
+    width: 212px;
+    height: 80px;
+
+    position: relative;
+    left: 11px;
+}
+
+div.button_order_212x80:active
+{
+    background: url("../../assets/header/buttons/order/button_order_212x80_clicked.png");
+    width: 212px;
+    height: 80px;
+
+    position: relative;
+    left: 11px;
+}
+

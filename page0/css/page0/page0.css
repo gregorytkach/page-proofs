@@ -1,0 +1,120 @@
+div.page0
+{
+    height: 1130px;
+    width: 809px;
+
+    text-align: center;
+}
+
+div.page0_shadow_left
+{
+    background: url("../../assets/page0/shadow/page0_shadow_left.png");
+
+    position: absolute;
+
+    width: 102px;
+    height: 1679px;
+
+    left: -102px;
+    top: 20px;
+}
+
+div.page0_shadow_right
+{
+    background: url("../../assets/page0/shadow/page0_shadow_right.png");
+
+    position: absolute;
+
+    width: 102px;
+    height: 1679px;
+
+    top: 20px;
+    left: 809px;
+}
+
+div.page0_shadow_bottom
+{
+    background: url("../../assets/page0/shadow/page0_shadow_bottom.png");
+
+    position: absolute;
+
+    width: 833px;
+    height: 91px;
+
+    top: 1652px;
+    left: -12px;
+
+    z-index: 1;
+}
+
+/*list item with star*/
+div.page0 ul.ul_with_star_425 li,
+div.page0 ul.ul_with_star_440 li
+{
+    background: url("../../assets/page0/page0_list_item_star.png") no-repeat left top;
+    padding: 1px 0 3px 25px;
+}
+
+div.page0 ul.ul_with_star_425
+{
+    list-style: none;
+
+    text-align: left;
+
+    width: 425px;
+
+    padding-left: 195px;
+}
+
+/*HOT OFFER*/
+
+div.page0 #page0_hot_offer
+{
+    width: 250px;
+    height: 85px;
+
+    padding-left: 30px;
+}
+
+div.page0 div.hot_offer_button_container
+{
+    padding-left: 340px;
+}
+
+div.page0_icons
+{
+    width: 809px;
+    height: 180px;
+}
+
+#page0_bonuses
+{
+    width: 809px;
+    height: 170px;
+}
+
+/*bonuses lists*/
+
+div.bonus_list0
+{
+    position: absolute;
+    left: 50px;
+}
+
+div.bonus_list1
+{
+    position: absolute;
+    left: 492px;
+}
+
+div.page0 ul.ul_with_star_440
+{
+    list-style: none;
+
+    text-align: left;
+
+    width: 440px;
+
+    padding: 0;
+    margin: 0;
+}

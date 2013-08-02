@@ -1,0 +1,115 @@
+div.page4
+{
+    height: 1425px;
+    width: 809px;
+
+    background-color: #ffffff;
+}
+
+
+div.page4_shadow_top
+{
+    background: url("../../assets/page4/shadow/page4_shadow_top.png");
+
+    position: absolute;
+
+    width: 1920px;
+    height: 59px;
+
+    top: 6344px;
+    left: -512px;
+}
+
+div.page4_shadow_left
+{
+    background: url("../../assets/page4/shadow/page4_shadow_left.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 1425px;
+
+    top: 6344px;
+    left: -75px;
+}
+
+div.page4_shadow_right
+{
+    background: url("../../assets/page4/shadow/page4_shadow_right.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 1425px;
+
+    top: 6344px;
+    left: 809px;
+}
+
+div.page4_shadow_bottom
+{
+    background: url("../../assets/page4/shadow/page4_shadow_bottom.png");
+
+    position: absolute;
+
+    width: 833px;
+    height: 91px;
+
+    top: 7724px;
+    left: -12px;
+
+    z-index: 1;
+}
+
+
+/*icons*/
+div.page4_icons
+{
+    width: 809px;
+    height: 220px;
+}
+
+/*icon 0*/
+
+div.page4_icon0
+{
+    background: url("../../assets/page4/page4_icon0.png") no-repeat left top;
+
+    width: 253px;
+    height: 220px;
+
+    position: absolute;
+
+    text-align: center;
+
+    left: 120px;
+}
+
+div.page4_icon0_button_container
+{
+    position: relative;
+    top: 100px;
+    left: 25px;
+
+    width: 152px;
+    height: 90px;
+}
+
+#page4_icon0_button
+{
+    width: 152px;
+    height: 56px;
+}
+
+div.page4_text
+{
+    height: 715px;
+}
+
+blockquote.page4_quote1
+{
+    padding: 5px 0 5px 10px;
+    width: 535px;
+
+    font-weight: bold;
+}

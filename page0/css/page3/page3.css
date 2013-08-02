@@ -1,0 +1,119 @@
+div.page3
+{
+    height: 1228px;
+    width: 809px;
+
+    background-color: #ffffff;
+}
+
+div.page3_shadow_top
+{
+    background: url("../../assets/page3/shadow/page3_shadow_top.png");
+
+    position: absolute;
+
+    width: 1920px;
+    height: 59px;
+
+    top: 4989px;
+    left: -512px;
+}
+
+div.page3_shadow_left
+{
+    background: url("../../assets/page3/shadow/page3_shadow_left.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 1229px;
+
+    top: 4989px;
+    left: -75px;
+
+}
+
+div.page3_shadow_right
+{
+    background: url("../../assets/page3/shadow/page3_shadow_right.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 1229px;
+
+    top: 4989px;
+    left: 809px;
+}
+
+div.page3_shadow_bottom
+{
+    background: url("../../assets/page3/shadow/page3_shadow_bottom.png");
+
+    position: absolute;
+
+    width: 833px;
+    height: 91px;
+
+    top: 6172px;
+    left: -12px;
+
+    z-index: 1;
+}
+
+/*icons*/
+div.page3_icons
+{
+    width: 809px;
+    height: 220px;
+}
+
+/*icon 0*/
+
+div.page3_icon0
+{
+    background: url("../../assets/page3/page3_icon0.png") no-repeat left top;
+
+    width: 280px;
+    height: 220px;
+
+    position: absolute;
+
+    text-align: center;
+
+    left: 120px;
+}
+
+div.page3_icon0_button_container
+{
+    position: relative;
+    top: 100px;
+    left: 25px;
+
+    width: 152px;
+    height: 90px;
+}
+
+#page3_icon0_button
+{
+    width: 152px;
+    height: 56px;
+}
+
+div.page3_text
+{
+    height: 970px;
+}
+
+dd.no-style-image
+{
+    padding-left: 25px;
+}
+
+blockquote.page3_quote1
+{
+    padding: 5px 0 5px 10px;
+    width: 675px;
+
+    font-weight: bold;
+}

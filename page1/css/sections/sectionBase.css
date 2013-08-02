@@ -1,0 +1,24 @@
+.text_question
+{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+
+    font-weight: normal;
+
+    margin-left: 50px;
+
+    color: #3290c8;
+}
+
+.text_answer
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+
+    font-weight: normal;
+    line-height: 120%;
+
+    margin-left: 50px;
+
+    color: #414042;
+}

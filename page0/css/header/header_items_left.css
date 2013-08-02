@@ -1,0 +1,28 @@
+/*item 0*/
+
+#header_item0,
+#footer_item0
+{
+    left: -2px;
+}
+
+/*item 1*/
+
+#header_item1,
+#footer_item1
+{
+    left: 143px;
+}
+
+#header_item1_type,
+#footer_item1_type
+{
+    padding-top: 8px;
+}
+
+#header_item1_name,
+#footer_item1_name
+{
+    padding-bottom: 8px;
+}
+

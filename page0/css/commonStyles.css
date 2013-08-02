@@ -1,0 +1,52 @@
+body.default
+{
+    background: url("../assets/body/background.jpg") center top no-repeat #0192d5;
+
+    min-width: 800px;
+    min-height: 10231px;
+}
+
+#content
+{
+    background: url(../assets/page0/background/page0_background.jpg) center top no-repeat;
+
+    height: 10231px;
+    width: 809px;
+
+    margin: 0 auto;
+
+    /*TODO: review this hack*/
+    position: relative;
+    top: -8px;
+    right: 3px;
+}
+
+div.page_strip
+{
+    background: url("../assets/pageCommon/page_strip.jpg");
+
+    width: 1920px;
+    height: 129px;
+
+    position: relative;
+
+    left: -512px;
+}
+
+div.page_strip_text
+{
+    width: 809px;
+    height: 99px;
+
+    text-align: center;
+
+    line-height: 250%;
+
+    padding-top: 30px;
+    padding-left: 512px;
+}
+
+.debug
+{
+    background-color: greenyellow;
+}

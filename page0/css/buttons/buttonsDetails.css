@@ -1,0 +1,70 @@
+/*button details*/
+
+div.button_details_left
+{
+    background: url("../../assets/header/buttons/details/button_details_left.png");
+    width: 147px;
+    height: 46px;
+
+    position: relative;
+    left: -22px;
+
+}
+
+div.button_details_left:active
+{
+    background: url("../../assets/header/buttons/details/button_details_left_clicked.png");
+    width: 147px;
+    height: 46px;
+
+    position: relative;
+    left: -22px;
+}
+
+/*button details*/
+
+div.button_details_center
+{
+    background: url("../../assets/header/buttons/details/button_details_center.png");
+    width: 114px;
+    height: 44px;
+
+    position: relative;
+    left: 59px;
+    top: -18px;
+}
+
+div.button_details_center:active
+{
+    background: url("../../assets/header/buttons/details/button_details_center_clicked.png");
+    width: 114px;
+    height: 44px;
+
+    position: relative;
+    left: 59px;
+    top: -18px;
+}
+
+/*buttons details*/
+
+div.button_details_right
+{
+    background: url("../../assets/header/buttons/details/button_details_right.png");
+    width: 139px;
+    height: 46px;
+
+    position: relative;
+    left: 22px;
+
+}
+
+div.button_details_right:active
+{
+    background: url("../../assets/header/buttons/details/button_details_right_clicked.png");
+    width: 139px;
+    height: 46px;
+
+    position: relative;
+    left: 22px;
+}
+

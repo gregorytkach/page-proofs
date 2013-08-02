@@ -1,0 +1,189 @@
+body.footer_body
+{
+    height: 640px;
+}
+
+.footer_gradient
+{
+    background: linear-gradient(to top, #d9e0eb 0%, #fcfcfc 70%, #ffffff 100%);
+}
+
+.footer_strip
+{
+    background: url("../assets/footer/footer.jpg") top center no-repeat;
+    height: 30px;
+}
+
+div.footer
+{
+    width: 1005px;
+    /*height: 210px;*/
+
+    text-align: center;
+
+    margin: 0 auto;
+
+    /*border-top: 4px double #dedede;*/
+}
+
+h3.footer_text
+{
+    width: 940px;
+
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+
+    line-height: 120%;
+
+    color: #414042;
+
+    padding-left: 30px;
+}
+
+div.footer_circles
+{
+    width: 100%;
+    height: 165px;
+}
+
+div.footer_circle_outside
+{
+    width: 120px;
+    height: 120px;
+
+    border-radius: 60px;
+
+    background: linear-gradient(to bottom, #698af7 0%, #3c5da4 100%);
+
+    text-align: center;
+}
+
+div.footer_circle_inside
+{
+    width: 100px;
+    height: 100px;
+
+    border-radius: 50px;
+    background: linear-gradient(to bottom, #ffffff 0%, #f4f7f8 100%);
+
+    text-align: center;
+
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+h3.footer_circle_text_0
+{
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+
+    color: #414042;
+}
+
+h3.footer_circle_text_1
+{
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+
+    color: #414042;
+}
+
+h3.footer_circle_description
+{
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+
+    color: #414042;
+}
+
+div.circle0
+{
+
+    width: 120px;
+
+    text-align: center;
+
+    float: left;
+
+    padding-left: 100px;
+}
+
+div.circle1
+{
+    width: 120px;
+
+    float: left;
+
+    padding-left: 100px;
+
+}
+
+div.circle2
+{
+    width: 120px;
+
+    float: left;
+
+    padding-left: 100px;
+
+}
+
+div.circle3
+{
+    width: 120px;
+
+    float: left;
+    padding-left: 100px;
+
+}
+
+a.footer_link
+{
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+
+    text-decoration: none;
+
+    color: #000000;
+
+}
+
+div.footer_contacts
+{
+    width: 300px;
+    height: 45px;
+
+    text-align: left;
+
+    padding-left: 200px;
+}
+
+img.footer_icon_mail
+{
+    margin-right: 10px;
+}
+
+div.footer_logo
+{
+    height: 35px;
+}
+
+h3.footer_copyright
+{
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+
+    color: #414042;
+}
+
+/*div.*/
+/*{*/
+/*width: 165;*/
+/*}*/

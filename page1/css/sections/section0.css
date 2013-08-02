@@ -1,0 +1,89 @@
+div.section_0
+{
+    width: 1005px;
+    height: 560px;
+
+    border-bottom: 5px solid  #3290c8;
+}
+
+div.section_0_0
+{
+    width: 1005px;
+    height: 205px;
+
+    border-top: 4px double #dedede;
+    border-bottom: 4px double #dedede;
+
+    text-align: left;
+    margin: 2px 0;
+}
+
+div.section_0_0_contacts
+{
+    width: 255px;
+    height: 205px;
+
+    float: right;
+
+    text-align: right;
+    padding-right: 75px;
+}
+
+div.section_0_1
+{
+    height: 390px;
+
+    border-bottom: 5px;
+    border-color: #000000;
+}
+
+div.section_0_1_right
+{
+    width: 330px;
+    height: 270px;
+
+    float: right;
+
+    text-align: center;
+}
+
+div.section_0_1_right_button_container
+{
+    padding-left: 60px;
+}
+
+
+div.section_0_1_right_button
+{
+    background: url("../../assets/section0/button.jpg");
+
+    width: 219px;
+    height: 39px;
+}
+
+div.section_0_1_right_button:active
+{
+    background: url("../../assets/section0/button_clicked.jpg");
+
+    width: 219px;
+    height: 39px;
+}
+
+div.section_0_1_content
+{
+    width: 675px;
+    height: 270px;
+}
+
+ul.section_0_1_list
+{
+    font-family: Arial, sans-serif;
+    font-size: 17.5px;
+    color: #636466;
+
+    text-align: left;
+
+    padding-left: 85px;
+
+    line-height: 130%;
+}

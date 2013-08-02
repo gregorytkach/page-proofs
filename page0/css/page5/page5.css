@@ -1,0 +1,110 @@
+div.page5
+{
+    height: 2760px;
+    width: 809px;
+
+    background-color: #ffffff;
+}
+
+div.page5_shadow_top
+{
+    background: url("../../assets/page4/shadow/page4_shadow_top.png");
+
+    position: absolute;
+
+    width: 1920px;
+    height: 59px;
+
+    top: 7899px;
+    left: -512px;
+}
+
+div.page5_shadow_left
+{
+    background: url("../../assets/page5/shadow/page5_shadow_left.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 2756px;
+
+    top: 7899px;
+    left: -75px;
+}
+
+div.page5_shadow_right
+{
+    background: url("../../assets/page5/shadow/page5_shadow_right.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 2756px;
+
+    top: 7899px;
+    left: 809px;
+}
+
+blockquote.page5_quote1
+{
+    padding: 5px 0 5px 10px;
+    width: 620px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote2
+{
+    padding: 5px 0 5px 10px;
+    width: 650px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote3
+{
+    padding: 5px 0 5px 10px;
+    width: 500px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote4
+{
+    padding: 5px 0 5px 10px;
+    width: 705px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote5
+{
+    padding: 5px 0 5px 10px;
+    width: 530px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote6
+{
+    padding: 5px 0 5px 10px;
+    width: 630px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote7
+{
+    padding: 5px 0 5px 10px;
+    width: 595px;
+
+    font-weight: bold;
+}
+
+blockquote.page5_quote8
+{
+    padding: 5px 0 5px 10px;
+    width: 540px;
+
+    font-weight: bold;
+}

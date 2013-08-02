@@ -1,0 +1,38 @@
+.bg_blue
+{
+    background-color: #3290c8;
+
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg_gray
+{
+    background-color: #f5f5f6;
+
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.bg_square
+{
+    background: url("../../assets/lists/list_item_square.png") top left no-repeat;
+    padding-left: 30px;
+}
+
+dd
+{
+    margin-left: 40px;
+    /*padding: 100px;*/
+}
+
+.bg_dot
+{
+    background: url("../../assets/lists/list_item_dot.png") top left no-repeat;
+    list-style-type: none;
+
+    padding-left: 30px;
+    /*margin: 0 0 10px 90px;*/
+}

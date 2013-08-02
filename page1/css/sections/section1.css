@@ -1,0 +1,128 @@
+div.section_1_1
+{
+    width: 675px;
+    height: 310px;
+
+    border-bottom: 5px solid #3290c8;
+
+    text-align: center;
+}
+
+/*лучинский*/
+div.section_1_2
+{
+    width: 675px;
+    height: 1250px;
+
+    border-bottom: 5px solid #3290c8;
+
+}
+
+ul.section_1_2_list_with_square
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+
+    font-weight: normal;
+    line-height: 120%;
+
+    margin-left: 20px;
+
+    color: #414042;
+
+    list-style-type: none;
+}
+
+ul.section_1_2_list
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+
+    font-weight: normal;
+    line-height: 120%;
+
+    margin-left: 50px;
+
+    color: #414042;
+
+    list-style-type: none;
+}
+
+h3.section_1_3_quote_owner
+{
+    text-align: right;
+    margin-right: 30px;
+}
+
+ol.section_1_5_list
+{
+    margin-left: 70px;
+}
+
+div.section_1_3
+{
+    width: 675px;
+    height: 810px;
+
+    border-bottom: 5px solid #3290c8;
+
+    text-align: left;
+}
+
+h3.section_1_3_image_description
+{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+
+    color: #939598;
+    padding-left: 50px;
+}
+
+div.section_1_4
+{
+    width: 675px;
+    height: 760px;
+
+    border-bottom: 5px solid #3290c8;
+}
+
+div.section_1_5
+{
+    width: 675px;
+    height: 1250px;
+
+    border-bottom: 5px solid #3290c8;
+}
+
+div.section_1_6
+{
+    width: 675px;
+    height: 335px;
+
+    border-bottom: 5px solid #3290c8;
+
+}
+
+div.section_1_7
+{
+    width: 675px;
+    height: 855px;
+
+    border-bottom: 5px solid #3290c8;
+}
+
+div.section_1_8
+{
+    width: 675px;
+    height: 200px;
+
+    border-bottom: 5px solid #3290c8;
+}
+
+div.section_1_9
+{
+    width: 675px;
+    height: 710px;
+
+}

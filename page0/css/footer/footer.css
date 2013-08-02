@@ -1,0 +1,75 @@
+div.footer
+{
+    background: url("../../assets/footer/footer_background.jpg");
+
+    width: 1920px;
+    height: 764px;
+
+    position: relative;
+
+    left: -512px;
+
+    z-index: 0;
+}
+
+div.footer_shadow
+{
+    background: url("../../assets/footer/footer_shadow.png");
+
+    position: absolute;
+
+    width: 1920px;
+    height: 59px;
+
+    top: 200px;
+    left: -512px;
+    z-index: 1;
+}
+
+div.footer_content
+{
+    width: 809px;
+    height: 764px;
+
+    text-align: center;
+
+    position: relative;
+    left: 512px;
+}
+
+div.contacts
+{
+    width: 809px;
+    height: 45px;
+}
+
+div.author
+{
+
+    width: 220px;
+    height: 45px;
+}
+
+div.mail
+{
+    float: right;
+
+    width: 320px;
+    height: 45px;
+
+    text-align: right;
+
+    padding-right: 10px;
+}
+
+img.icon_skype
+{
+    position: relative;
+    top: 6px;
+}
+
+img.icon_mail
+{
+    position: relative;
+    top: 4px;
+}

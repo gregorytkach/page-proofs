@@ -1,0 +1,16 @@
+#mega_discounts
+{
+    width: 940px;
+    height: 124px;
+
+    margin: 0 auto;
+
+    text-align: left;
+
+}
+
+#mega_discounts img
+{
+    position: relative;
+    top: -85px;
+}

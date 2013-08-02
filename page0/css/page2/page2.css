@@ -1,0 +1,113 @@
+div.page2
+{
+    height: 1413px;
+    width: 809px;
+
+    background-color: #ffffff;
+}
+
+div.page2_shadow_top
+{
+    background: url("../../assets/page2/shadow/page2_shadow_top.png");
+
+    position: absolute;
+
+    width: 1920px;
+    height: 59px;
+
+    top: 3447px;
+    left: -512px;
+}
+
+div.page2_shadow_left
+{
+    background: url("../../assets/page2/shadow/page2_shadow_left.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 1414px;
+
+    top: 3447px;
+    left: -75px;
+}
+
+div.page2_shadow_right
+{
+    background: url("../../assets/page2/shadow/page2_shadow_right.png");
+
+    position: absolute;
+
+    width: 75px;
+    height: 1414px;
+
+    top: 3447px;
+    left: 809px;
+}
+
+div.page2_shadow_bottom
+{
+    background: url("../../assets/page2/shadow/page2_shadow_bottom.png");
+
+    position: absolute;
+
+    width: 833px;
+    height: 91px;
+
+    top: 4815px;
+    left: -12px;
+
+    z-index: 1;
+}
+
+/*icons*/
+div.page2_icons
+{
+    width: 809px;
+    height: 220px;
+}
+
+/*icon 0*/
+
+div.page2_icon0
+{
+    background: url("../../assets/page2/page2_icon0.png") no-repeat left top;
+
+    width: 266px;
+    height: 220px;
+
+    position: absolute;
+
+    text-align: center;
+
+    left: 120px;
+}
+
+div.page2_icon0_button_container
+{
+    position: relative;
+    top: 100px;
+    left: 25px;
+
+    width: 152px;
+    height: 90px;
+}
+
+#page2_icon0_button
+{
+    width: 152px;
+    height: 56px;
+}
+
+div.page2_text
+{
+    height: 853px;
+}
+
+blockquote.page2_quote1
+{
+    padding: 5px 0 5px 10px;
+    width: 460px;
+
+    font-weight: bold;
+}

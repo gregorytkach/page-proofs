@@ -1,0 +1,135 @@
+/*icon1*/
+
+div.page_icon1
+{
+    background: url("../../assets/page1/page1_icon1.png") no-repeat left top;
+
+    width: 297px;
+    height: 220px;
+
+    position: absolute;
+
+    text-align: center;
+
+    left: 430px;
+}
+
+div.page_icon1_button_container
+{
+    position: relative;
+    top: 100px;
+    left: 50px;
+
+    width: 152px;
+    height: 90px;
+}
+
+div.page_icon1_button
+{
+    width: 152px;
+    height: 56px;
+}
+
+/*text*/
+
+div.page_text
+{
+    width: 719px;
+
+    padding-left: 90px;
+    text-align: left;
+}
+
+h3.page_text_header
+{
+    padding-left: 25px;
+    text-align: left;
+
+    line-height: 120%;
+}
+
+ul.page_list
+{
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+
+    list-style: none;
+
+    text-align: left;
+
+    line-height: 140%;
+}
+
+ul.page_list li
+{
+    background: url("../../assets/pageCommon/list_item_point.png") no-repeat left top;
+    padding: 0 0 0 25px;
+}
+
+blockquote.page_blockquote
+{
+    line-height: 150%;
+}
+
+blockquote.page_videodescription
+{
+    margin-left: 475px;
+    margin-bottom: 250px;
+}
+
+/*sidebar*/
+
+div.sidebar
+{
+    width: 112px;
+    height: 450px;
+
+    position: fixed;
+
+    right: 10%;
+    top: 30%;
+
+    text-align: center;
+
+    z-index: 2;
+}
+
+div.button_sidebar_page1
+{
+    background: url("../../assets/common/icons/icon_million.png") no-repeat top left;
+
+    width: 112px;
+    height: 112px;
+}
+
+div.button_sidebar_page2
+{
+    background: url("../../assets/common/icons/icon_science.png") no-repeat top left;
+
+    width: 112px;
+    height: 112px;
+}
+
+div.button_sidebar_page3
+{
+    background: url("../../assets/common/icons/icon_target.png") no-repeat top left;
+
+    width: 112px;
+    height: 112px;
+}
+
+div.button_sidebar_page4
+{
+    background: url("../../assets/common/icons/icon_whale.png") no-repeat top left;
+
+    width: 112px;
+    height: 112px;
+}
+
+iframe.page_video
+{
+    border: none;
+    float: left;
+}
+
+

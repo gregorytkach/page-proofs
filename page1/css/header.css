@@ -1,0 +1,97 @@
+div.header
+{
+    width: 1005px;
+    height: 140px;
+
+    text-align: left;
+}
+
+img.header_logo
+{
+    padding-left: 30px;
+}
+
+div.header_button_partner
+{
+    background: url("../assets/header/header_button_partner.png") no-repeat top left;
+
+    width: 228px;
+    height: 36px;
+}
+
+div.header_button_partner_container
+{
+    width: 228px;
+
+    float: right;
+    padding-right: 5px;
+    padding-top: 60px;
+}
+
+div.header_button_learning
+{
+    background: url("../assets/header/header_button_learning.png") no-repeat top left;
+
+    width: 163px;
+    height: 38px;
+}
+
+div.header_button_learning_container
+{
+    width: 163px;
+
+    float: right;
+    padding-right: 5px;
+    padding-top: 60px;
+}
+
+div.header_button_star
+{
+    background: url("../assets/header/header_button_star.png") no-repeat top left;
+
+    width: 152px;
+    height: 38px;
+}
+
+div.header_button_star_container
+{
+    width: 152px;
+
+    float: right;
+    padding-right: 30px;
+    padding-top: 60px;
+}
+
+div.header_links_list
+{
+    height: 30px;
+
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+}
+
+a.header_link
+{
+    text-decoration: none;
+
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+
+    color: #414042;
+}
+
+a.header_link:hover
+{
+    text-decoration: none;
+
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+
+    color: #414042;
+
+    border-bottom: 4px double #dedede;
+}
+
