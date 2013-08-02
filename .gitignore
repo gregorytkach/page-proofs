@@ -1,6 +1,7 @@
 # Build and Release Folders
 
 # Other files and folders
+psd/
 
 #OSX tmp files
 .DS_Store
