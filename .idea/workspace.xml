@@ -2,24 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89af8882-e422-44c8-9a89-f341fd97ad7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/assets/section10/section10_header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_button_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/section10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/section9.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/css/page9.css" afterPath="$PROJECT_DIR$/page2/css/section12.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/css/section9.css" afterPath="$PROJECT_DIR$/page2/css/section11.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/page9.html" afterPath="$PROJECT_DIR$/page2/section12.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/section_9.html" afterPath="$PROJECT_DIR$/page2/section11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section8.css" afterPath="$PROJECT_DIR$/page2/css/section8.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/header.html" afterPath="$PROJECT_DIR$/page2/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/index.html" afterPath="$PROJECT_DIR$/page2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section0.html" afterPath="$PROJECT_DIR$/page2/section0.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section1.css" afterPath="$PROJECT_DIR$/page2/css/section1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section1.html" afterPath="$PROJECT_DIR$/page2/section1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section11.css" afterPath="$PROJECT_DIR$/page2/css/section11.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section11.html" afterPath="$PROJECT_DIR$/page2/section11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section12.html" afterPath="$PROJECT_DIR$/page2/section12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section2.css" afterPath="$PROJECT_DIR$/page2/css/section2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section2.html" afterPath="$PROJECT_DIR$/page2/section2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section3.html" afterPath="$PROJECT_DIR$/page2/section3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section4.html" afterPath="$PROJECT_DIR$/page2/section4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section5.html" afterPath="$PROJECT_DIR$/page2/section5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section6.html" afterPath="$PROJECT_DIR$/page2/section6.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section8.html" afterPath="$PROJECT_DIR$/page2/section8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStyles.css" afterPath="$PROJECT_DIR$/common/css/text/textStyles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="page-proofs.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375481867074" ignored="false" />
-    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375496419269" ignored="false" />
+    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375502764564" ignored="false" />
     <file path="/common.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375436558570" ignored="false" />
     <file path="/header.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375435641355" ignored="false" />
     <file path="/transparency.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375430164075" ignored="false" />
@@ -33,7 +36,7 @@
     <file path="/page9.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442886187" ignored="false" />
     <file path="/textStyles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442548140" ignored="false" />
     <file path="/textStylesBold.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442607254" ignored="false" />
-    <file path="/section2.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375446480307" ignored="false" />
+    <file path="/section2.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375502892762" ignored="false" />
     <file path="/textStyleLighter.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375446657174" ignored="false" />
     <file path="/sidebar.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375456984759" ignored="false" />
     <file path="/common_styles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375456699858" ignored="false" />
@@ -46,6 +49,7 @@
     <file path="/section5.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375492630735" ignored="false" />
     <file path="/a.dummy" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375492254079" ignored="false" />
     <file path="/section6.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375496475340" ignored="false" />
+    <file path="/section1.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375501908405" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,73 +69,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="2366" selection-end="2366" vertical-scroll-proportion="-8.14">
-              <folding />
+            <state line="558" column="7" selection-start="18338" selection-end="18338" vertical-scroll-proportion="0.62657094">
+              <folding>
+                <element signature="tag#div#0;tag#div#4;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#4;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#5;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#11;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#13;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section6.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/css/section6.css">
+      <file leaf-file-name="section2.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="-14.846154">
+            <state line="30" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section6.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section6.html">
+      <file leaf-file-name="section1.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="27" selection-start="2681" selection-end="2681" vertical-scroll-proportion="-19.291666">
+            <state line="12" column="138" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.923077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section11.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section11.html">
+      <file leaf-file-name="section11.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section11.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="23" selection-start="463" selection-end="463" vertical-scroll-proportion="-6.0">
+            <state line="17" column="14" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section9.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section9.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section10.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page2/section10.html">
+      <file leaf-file-name="section8.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section8.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section12.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section12.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="70" selection-start="3963" selection-end="3963" vertical-scroll-proportion="-3.08">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section8.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="46.958332">
               <folding />
             </state>
           </provider>
@@ -146,10 +129,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section7.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section7.html">
+      <file leaf-file-name="header.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section6.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section6.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section12.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section12.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -173,22 +183,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/page2/section10.html" />
+        <option value="$PROJECT_DIR$/page2/section0.html" />
+        <option value="$PROJECT_DIR$/page2/section1.html" />
+        <option value="$PROJECT_DIR$/page2/section2.html" />
         <option value="$PROJECT_DIR$/page2/section3.html" />
         <option value="$PROJECT_DIR$/page2/section4.html" />
-        <option value="$PROJECT_DIR$/page2/section_9.html" />
-        <option value="$PROJECT_DIR$/page2/css/section5.css" />
         <option value="$PROJECT_DIR$/page2/section5.html" />
-        <option value="$PROJECT_DIR$/common/css/colors/colors_content.css" />
-        <option value="$PROJECT_DIR$/page2/css/colors.css" />
-        <option value="$PROJECT_DIR$/common/css/text/textHeight.css" />
-        <option value="$PROJECT_DIR$/page2/css/section6.css" />
-        <option value="$PROJECT_DIR$/page2/index.html" />
         <option value="$PROJECT_DIR$/page2/section6.html" />
-        <option value="$PROJECT_DIR$/page2/section7.html" />
-        <option value="$PROJECT_DIR$/page2/section_11.html" />
+        <option value="$PROJECT_DIR$/page2/section8.html" />
+        <option value="$PROJECT_DIR$/page2/section11.html" />
         <option value="$PROJECT_DIR$/page2/section12.html" />
-        <option value="$PROJECT_DIR$/page2/section9.html" />
-        <option value="$PROJECT_DIR$/page2/section10.html" />
+        <option value="$PROJECT_DIR$/page2/css/section11.css" />
+        <option value="$PROJECT_DIR$/page2/header.html" />
+        <option value="$PROJECT_DIR$/page2/css/section1.css" />
+        <option value="$PROJECT_DIR$/page2/css/section2.css" />
+        <option value="$PROJECT_DIR$/page2/index.html" />
       </list>
     </option>
   </component>
@@ -253,6 +263,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="page2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,13 +408,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="22" width="1852" height="1178" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986331" sideWeight="0.60018903" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986331" sideWeight="0.60018903" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39981097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -485,60 +513,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page2/css/section4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="281" selection-end="430" vertical-scroll-proportion="0.6177924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/assets/section6/section_6_header_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/css/text/textStyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="8" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.53047776">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/css/colors.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="96" selection-end="98" vertical-scroll-proportion="0.29654035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/css/colors/colors_content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="1" selection-start="30" selection-end="30" vertical-scroll-proportion="0.07413509">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/css/text/textHeight.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="15" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/css/section6.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="-14.846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/css/section7.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page2/section7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -546,37 +520,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="2366" selection-end="2366" vertical-scroll-proportion="-8.14">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/section6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="27" selection-start="2681" selection-end="2681" vertical-scroll-proportion="-19.291666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/section12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="70" selection-start="3963" selection-end="3963" vertical-scroll-proportion="-3.08">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page2/section8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="46.958332">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/section11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="23" selection-start="463" selection-end="463" vertical-scroll-proportion="-6.0">
+        <state line="42" column="0" selection-start="1512" selection-end="1512" vertical-scroll-proportion="-16.791666">
           <folding />
         </state>
       </provider>
@@ -592,6 +538,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/section11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/section12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1426" selection-end="1426" vertical-scroll-proportion="-17.416666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section12.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section11.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="138" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="558" column="7" selection-start="18338" selection-end="18338" vertical-scroll-proportion="0.62657094">
+          <folding>
+            <element signature="tag#div#0;tag#div#4;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#4;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#5;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#11;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#13;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
