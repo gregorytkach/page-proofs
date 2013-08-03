@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89af8882-e422-44c8-9a89-f341fd97ad7f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/assets/section10/section10_header.png" afterPath="$PROJECT_DIR$/page2/assets/section12/section12_header.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/footer.css" afterPath="$PROJECT_DIR$/page2/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/index.html" afterPath="$PROJECT_DIR$/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/script/main.js" afterPath="$PROJECT_DIR$/page2/script/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section12.css" afterPath="$PROJECT_DIR$/page2/css/section12.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section7.css" afterPath="$PROJECT_DIR$/page2/css/section7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/section7.html" afterPath="$PROJECT_DIR$/page2/section7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section8.css" afterPath="$PROJECT_DIR$/page2/css/section8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/common_styles.css" afterPath="$PROJECT_DIR$/page1/css/common_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/index.html" afterPath="$PROJECT_DIR$/page1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/section0.css" afterPath="$PROJECT_DIR$/page1/css/sections/section0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/section1.css" afterPath="$PROJECT_DIR$/page1/css/sections/section1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/sidebar.css" afterPath="$PROJECT_DIR$/page1/css/sections/sidebar.css" />
     </list>
     <ignored path="page-proofs.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375481867074" ignored="false" />
-    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375511905189" ignored="false" />
+    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375513862904" ignored="false" />
     <file path="/common.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375436558570" ignored="false" />
     <file path="/header.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375435641355" ignored="false" />
     <file path="/transparency.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375430164075" ignored="false" />
@@ -31,16 +27,16 @@
     <file path="/textStylesBold.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442607254" ignored="false" />
     <file path="/section2.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375502892762" ignored="false" />
     <file path="/textStyleLighter.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375446657174" ignored="false" />
-    <file path="/sidebar.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375456984759" ignored="false" />
-    <file path="/common_styles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375456699858" ignored="false" />
+    <file path="/sidebar.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375513266466" ignored="false" />
+    <file path="/common_styles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375513967751" ignored="false" />
     <file path="/footer.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375511897631" ignored="false" />
     <file path="/skypeStatus.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375458721600" ignored="false" />
-    <file path="/section0.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375472815000" ignored="false" />
+    <file path="/section0.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375514028031" ignored="false" />
     <file path="/section3.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375485765146" ignored="false" />
     <file path="/section4.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375487719350" ignored="false" />
     <file path="/border.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375487045802" ignored="false" />
     <file path="/section5.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375492630735" ignored="false" />
-    <file path="/a.dummy" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375506078502" ignored="false" />
+    <file path="/a.dummy" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375514613991" ignored="false" />
     <file path="/section6.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375496475340" ignored="false" />
     <file path="/section1.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375501908405" ignored="false" />
     <file path="/section12.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375506502136" ignored="false" />
@@ -66,10 +62,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="section7.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section7.html">
+      <file leaf-file-name="section1.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page1/css/sections/section1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1508" selection-end="1508" vertical-scroll-proportion="-17.416666">
+            <state line="92" column="16" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1133" column="17" selection-start="34204" selection-end="34204" vertical-scroll-proportion="-3.1666667">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section0.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page1/css/sections/section0.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="16" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page1/css/sections/sidebar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="66" selection-start="427" selection-end="429" vertical-scroll-proportion="-7.423077">
               <folding />
             </state>
           </provider>
@@ -78,7 +101,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1177" column="27" selection-start="38826" selection-end="38826" vertical-scroll-proportion="-6.2916665">
+            <state line="1177" column="27" selection-start="38826" selection-end="38826" vertical-scroll-proportion="-580.625">
               <folding>
                 <element signature="tag#div#2;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#17;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -87,10 +110,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="skypeStatus.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/script/skype/skypeStatus.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="90" column="0" selection-start="2821" selection-end="2821" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2/css/footer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.38220757">
+            <state line="62" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,46 +148,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section8.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/css/section8.css">
+      <file leaf-file-name="common_styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page1/css/common_styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="19" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.countdown.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/css/jquery.countdown.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="17" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/css/colors.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="18" selection-start="95" selection-end="102" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/script/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="section8.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/section8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.458333">
+            <state line="13" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="0.33562824">
               <folding />
             </state>
           </provider>
@@ -177,13 +175,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/page2/css/section1.css" />
-        <option value="$PROJECT_DIR$/page2/css/section2.css" />
-        <option value="$PROJECT_DIR$/page2/css/section4.css" />
-        <option value="$PROJECT_DIR$/page2/css/colors.css" />
         <option value="$PROJECT_DIR$/page2/css/section11.css" />
         <option value="$PROJECT_DIR$/page2/section12.html" />
-        <option value="$PROJECT_DIR$/page1/index.html" />
         <option value="$PROJECT_DIR$/page2/section9.html" />
         <option value="$PROJECT_DIR$/page2/section10.html" />
         <option value="$PROJECT_DIR$/page0/index.html" />
@@ -193,12 +186,17 @@
         <option value="$PROJECT_DIR$/page2/script/main.js" />
         <option value="$PROJECT_DIR$/page2/index.html" />
         <option value="$PROJECT_DIR$/page2/css/footer.css" />
+        <option value="$PROJECT_DIR$/page1/css/sections/sidebar.css" />
+        <option value="$PROJECT_DIR$/page1/css/sections/section0.css" />
+        <option value="$PROJECT_DIR$/page1/index.html" />
+        <option value="$PROJECT_DIR$/page1/css/sections/section1.css" />
+        <option value="$PROJECT_DIR$/page1/css/common_styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="23" />
+    <option name="x" value="-17" />
+    <option name="y" value="26" />
     <option name="width" value="1852" />
     <option name="height" value="1178" />
   </component>
@@ -293,6 +291,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -435,7 +447,7 @@
       <recent name="$PROJECT_DIR$/common/script/jQuery/1.3.2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.page2">
+  <component name="RunManager" selected="JavaScript Debug.page1">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -471,7 +483,7 @@
     </configuration>
     <configuration default="false" name="page1" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="firefox" />
+        <option name="engineId" value="chrome" />
         <option name="fileUrl" value="file://$PROJECT_DIR$/page1/index.html" />
       </JSDebuggerConfigurationSettings>
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
@@ -541,7 +553,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="23" width="1852" height="1178" extended-state="0" />
+    <frame x="-17" y="26" width="1852" height="1178" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -549,7 +561,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986331" sideWeight="0.60018903" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39981097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39981097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -621,78 +633,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/common/script/skype/skypeStatus.js</url>
-          <line>85</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/common/script/skype/skypeStatus.js</url>
-          <line>88</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/common/script/skype/skypeStatus.js</url>
-          <line>43</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/common/script/skype/skypeStatus.js</url>
-          <line>47</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page2/section12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-14.916667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown-ru.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page0/css/counter/counter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="94" selection-end="94" vertical-scroll-proportion="0.24711697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page0/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="23" selection-start="2544" selection-end="2544" vertical-scroll-proportion="1.9390445">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page0/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="2275" selection-end="2477" vertical-scroll-proportion="0.7540395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page2/css/colors.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="18" selection-start="95" selection-end="102" vertical-scroll-proportion="0.0">
@@ -749,9 +693,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1177" column="27" selection-start="38826" selection-end="38826" vertical-scroll-proportion="-6.2916665">
+        <state line="1177" column="27" selection-start="38826" selection-end="38826" vertical-scroll-proportion="-580.625">
           <folding>
             <element signature="tag#div#2;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#17;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -759,9 +710,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page2/css/footer.css">
+    <entry file="file://$PROJECT_DIR$/common/script/skype/skypeStatus.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.38220757">
+        <state line="90" column="0" selection-start="2821" selection-end="2821" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/css/sections/section0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="16" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1133" column="17" selection-start="34204" selection-end="34204" vertical-scroll-proportion="-3.1666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/css/sections/section1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="16" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/css/sections/sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="66" selection-start="427" selection-end="429" vertical-scroll-proportion="-7.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/css/common_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="0.33562824">
           <folding />
         </state>
       </provider>

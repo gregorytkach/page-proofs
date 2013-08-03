@@ -1,7 +1,7 @@
 div.default
 {
     width: 1005px;
-    height: 7585px;
+    height: 7785px;
 
     margin: 0 auto;
     line-height: 120%;
@@ -12,7 +12,7 @@ div.default
 div.sections_left
 {
     width: 675px;
-    height: 6530px;
+    height: 6630px;
 
     float: right;
     padding-right: 0;
