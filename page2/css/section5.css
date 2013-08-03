@@ -3,7 +3,7 @@ div.section_5
     background: rgba(255, 255, 255, 0.1);
 
     width: 1155px;
-    height: 1696px;
+    height: 1570px;
 
     padding-left: 45px;
 }
@@ -148,4 +148,5 @@ div.section_5_4_right
     width: 475px;
     height: 100%;
 
+    margin-left: 600px;
 }

@@ -1,0 +1,72 @@
+div.section_6
+{
+    width: 1200px;
+    height: 1100px;
+}
+
+div.section_6_0
+{
+    background: url("../assets/section6/section_6_image.png") no-repeat top left;
+
+    width: 1200px;
+    height: 342px;
+}
+
+div.section_6_1
+{
+    width: 100%;
+    height: 130px;
+}
+
+div.section_6_2
+{
+    background: url("../assets/section6/section_6_header_1.png") no-repeat top left;
+
+    width: 1200px;
+    height: 102px;
+}
+
+div.section_6_3
+{
+    width: 100%;
+    height: 170px;
+}
+
+div.section_6_3_left
+{
+    background: rgba(255, 255, 255, 0.1);
+
+    width: 535px;
+    height: 100%;
+
+    float: left;
+}
+
+div.section_6_3_center
+{
+    width: 80px;
+    height: 100%;
+
+    float: left;
+
+    margin-left: 25px;
+}
+
+div.section_6_3_right
+{
+    background: linear-gradient(to bottom, #00b2a3 0%, #00796f 100%);
+
+    width: 535px;
+    height: 100%;
+
+    float: right;
+
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+}
+
+div.section_6_4
+{
+
+}
+

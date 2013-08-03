@@ -28,7 +28,7 @@ ul.list_with_blue_square
     margin-left: 120px;
 }
 
-ul.list_with_blue_square    li
+ul.list_with_blue_square li
 {
     background: url("../assets/common/list_item_blue_square.gif") top left no-repeat;
 
@@ -37,31 +37,4 @@ ul.list_with_blue_square    li
 
     list-style-type: none;
     line-height: 120%;
-}
-
-div.section102
-{
-    width: 100%;
-    height: 40px;
-
-    padding: 40px 0;
-}
-
-div.line_darkblue
-{
-    width: 100%;
-    height: 63px;
-}
-
-div.line_gray
-{
-    width: 100%;
-    height: 61px;
-
-}
-
-div.section103_question
-{
-    width: 100%;
-    height: 60px;
 }
