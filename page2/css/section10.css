@@ -7,9 +7,15 @@ div.section_10
 div.section_10_0
 {
     width: 100%;
-    height: 40px;
+    height: 120px;
+}
 
-    padding: 40px 0;
+div.section_10_header
+{
+    height: 80px;
+
+    background: url("../assets/section10/section10_header.png") top left no-repeat;
+    margin-left: 280px;
 }
 
 div.line_darkblue
@@ -70,7 +76,7 @@ div.section_10_3_answer
 }
 
 
-.list_with_orange_square
+dt.list_with_orange_square
 {
     background: url("../assets/common/list_item_orange_square.gif") top left no-repeat;
 
@@ -80,7 +86,7 @@ div.section_10_3_answer
     line-height: 120%;
 }
 
-dd
+dd.section_10_dd
 {
     padding: 25px 0 25px 150px;
 

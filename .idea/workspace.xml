@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89af8882-e422-44c8-9a89-f341fd97ad7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/css/section8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/section8.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/css/page9.css" afterPath="$PROJECT_DIR$/page2/css/section10.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/page2/page9.html" afterPath="$PROJECT_DIR$/page2/section10.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="page-proofs.iws" />
@@ -20,14 +20,15 @@
     <file path="/section0_photo.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375440499234" ignored="false" />
     <file path="/textHeight.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375440270653" ignored="false" />
     <file path="/textType.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375440631048" ignored="false" />
-    <file path="/page9.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375448233505" ignored="false" />
+    <file path="/page9.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375493534931" ignored="false" />
     <file path="/textStyles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442548140" ignored="false" />
     <file path="/textStylesBold.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442607254" ignored="false" />
-    <file path="/page9.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375448745936" ignored="false" />
+    <file path="/page9.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375493659573" ignored="false" />
     <file path="/section1.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375488833789" ignored="false" />
     <file path="/section1.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375487246813" ignored="false" />
     <file path="/section8.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375490200105" ignored="false" />
     <file path="/section8.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375490354522" ignored="false" />
+    <file path="/section10.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375493617583" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +48,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page9.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/page9.html">
+      <file leaf-file-name="section10.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page2/section10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="52" selection-start="3882" selection-end="3882" vertical-scroll-proportion="-10.625">
+            <state line="3" column="171" selection-start="49" selection-end="49" vertical-scroll-proportion="0.07705479">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page9.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/css/page9.css">
+      <file leaf-file-name="section10.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/css/section10.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="83" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0">
+            <state line="14" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,7 +69,7 @@
       <file leaf-file-name="section9.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2/css/section9.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="19" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
+            <state line="18" column="18" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,7 +78,7 @@
       <file leaf-file-name="section_9.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2/section_9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="184" selection-start="57" selection-end="57" vertical-scroll-proportion="1.2083334">
+            <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="1.2083334">
               <folding />
             </state>
           </provider>
@@ -86,7 +87,7 @@
       <file leaf-file-name="section1.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2/section1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="203" column="9" selection-start="7893" selection-end="7924" vertical-scroll-proportion="-20.583334">
+            <state line="203" column="7" selection-start="7893" selection-end="7924" vertical-scroll-proportion="-20.583334">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -121,10 +122,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="colors.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page2/css/colors.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="7" selection-start="35" selection-end="35" vertical-scroll-proportion="0.07401316">
+            <state line="19" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -157,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/common/css/text/textHeight.css" />
         <option value="$PROJECT_DIR$/common/css/text/textType.css" />
         <option value="$PROJECT_DIR$/page2/css/section0_photo.css" />
         <option value="$PROJECT_DIR$/page2/section0.html" />
@@ -166,13 +166,14 @@
         <option value="$PROJECT_DIR$/page2/section_9.html" />
         <option value="$PROJECT_DIR$/page2/css/section9.css" />
         <option value="$PROJECT_DIR$/page2/css/colors.css" />
-        <option value="$PROJECT_DIR$/page2/page9.html" />
-        <option value="$PROJECT_DIR$/page2/css/page9.css" />
         <option value="$PROJECT_DIR$/common/css/text/textStylesBold.css" />
         <option value="$PROJECT_DIR$/page2/css/section1.css" />
         <option value="$PROJECT_DIR$/page2/section1.html" />
         <option value="$PROJECT_DIR$/page2/section8.html" />
         <option value="$PROJECT_DIR$/page2/css/section8.css" />
+        <option value="$PROJECT_DIR$/page2/css/page9.css" />
+        <option value="$PROJECT_DIR$/page2/page9.html" />
+        <option value="$PROJECT_DIR$/page2/css/section10.css" />
       </list>
     </option>
   </component>
@@ -351,7 +352,7 @@
       <recent name="$PROJECT_DIR$/common/css/content" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.section1">
+  <component name="RunManager" selected="JavaScript Debug.page9">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -560,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/css/text/textStylesBold.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="17" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/css/text/textHeight.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="16" selection-start="91" selection-end="106" vertical-scroll-proportion="0.24671052">
@@ -581,16 +575,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page2/css/page9.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="83" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page2/section1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="9" selection-start="7893" selection-end="7924" vertical-scroll-proportion="-20.583334">
+        <state line="203" column="7" selection-start="7893" selection-end="7924" vertical-scroll-proportion="-20.583334">
           <folding>
             <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
@@ -611,30 +598,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page2/css/section9.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="19" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page2/section_9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="184" selection-start="57" selection-end="57" vertical-scroll-proportion="1.2083334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/page9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="52" selection-start="3882" selection-end="3882" vertical-scroll-proportion="-10.625">
+        <state line="4" column="7" selection-start="57" selection-end="57" vertical-scroll-proportion="1.2083334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page2/css/colors.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="35" selection-end="35" vertical-scroll-proportion="0.07401316">
+        <state line="19" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/css/text/textStylesBold.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="17" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="18" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/section10.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/section10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="171" selection-start="49" selection-end="49" vertical-scroll-proportion="0.07705479">
           <folding />
         </state>
       </provider>
