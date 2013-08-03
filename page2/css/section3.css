@@ -1,0 +1,51 @@
+div.section_3
+{
+    width: 100%;
+    height: 696px;
+}
+
+div.section_3_header
+{
+    width: 100%;
+    height: 100px;
+
+    vertical-align: middle;
+}
+
+div.section_3_header_text
+{
+    background: url("../assets/section3/section_3_header_text.png") no-repeat top left;
+
+    width: 286px;
+    height: 37px;
+
+    margin-left: 450px;
+}
+
+div.section_3_image
+{
+    background: url("../assets/section3/background.jpg");
+
+    width: 100%;
+    height: 480px;
+}
+
+div.section_3_button
+{
+    background: url("../assets/section3/section_3_button.png") no-repeat top left;
+
+    width: 541px;
+    height: 66px;
+
+    margin-left: 330px;
+}
+
+div.section_3_button:hover
+{
+    background: url("../assets/section3/section_3_button_hover.png") no-repeat top left;
+
+    width: 541px;
+    height: 66px;
+
+    margin-left: 330px;
+}

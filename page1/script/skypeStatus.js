@@ -37,52 +37,55 @@ function getSkypeStatus(skypeId, iconType, skypeEvent, statusShowId)
 }
 
 
-jQuery.extend(
-    {
-        skype: function (failureFunction)
-        {
-            var result = false;
-
-            var $ = jQuery;
-
-            if ($.browser.safari || $.browser.opera)
-            {
-                result = true;
-            }
-            else if ($.browser.msie)
-            {
-                try
-                {
-                    if (new ActiveXObject("Skype.Detection"))
-                        result = true;
-                }
-                catch (e)
-                {
-                }
-            }
-            else
-            {
-                if (typeof(navigator.mimeTypes["application/x-skype"]) == "object")
-                {
-                    result = true;
-                }
-            }
-
-            $('a[href^="skype:"]').click(function ()
-            {
-                failureFunction();
-                result = false;
-            });
-
-            return result;
-        }
-    });
-
-jQuery(function ($)
-{
-    $.skype(function ()
-    {
-        // this function gets called if they don't have skype.
-        alert("Looks like you don't have skype. Bummer.");
-    });
-});
+//jQuery.extend(
+//    {
+//        skype: function (failureFunction)
+//        {
+//            var result = false;
+//
+//            var $ = jQuery;
+//
+//            if ($.browser.safari || $.browser.opera)
+//            {
+//                result = true;
+//            }
+//            else if ($.browser.msie)
+//            {
+//                try
+//                {
+//                    if (new ActiveXObject("Skype.Detection"))
+//                        result = true;
+//                }
+//                catch (e)
+//                {
+//                }
+//            }
+//            else
+//            {
+//                if (typeof(navigator.mimeTypes["application/x-skype"]) == "object")
+//                {
+//                    result = true;
+//                }
+//            }
+//
+//
+//            if(!result)
+//            {
+//                $('a[href^="skype:"]').click(function ()
+//                {
+//                    failureFunction();
+//                });
+//            }
+//
+//            return result;
+//        }
+//    });
+//
+//jQuery(function ($)
+//{
+//    $.skype(function ()
+//    {
+//        // this function gets called if they don't have skype.
+//        alert("Looks like you don't have skype. Bummer.");
+//    });
+//});
