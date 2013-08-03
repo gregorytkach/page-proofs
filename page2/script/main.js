@@ -11,7 +11,7 @@ function onLoad()
     getSkypeStatus('alexyanovskyschool', 'smallicon', 'call', '#skype_icon');
 
 
-    startCountDown();
+//    startCountDown();
 
     setTimeout(loadAssetsAsync, 1000);
 }
@@ -21,7 +21,8 @@ function getImageNames()
 {
     return         [
         '../assets/section0/button_registration_hover.png',
-        '../assets/section3/section_3_button_hover.png'
+        '../assets/section3/section_3_button_hover.png',
+        '../assets/section8/section8_button_hover.png'
     ];
 }
 

@@ -22,6 +22,40 @@ div.section_8_image
     background: url("../assets/section8/section8_image.png") top left no-repeat;
 }
 
+div.section_8_button
+{
+    background: url("../assets/section8/section8_button.png") top left no-repeat;
+
+    width: 318px;
+    height: 92px;
+}
+
+div.section_8_button:hover
+{
+    background: url("../assets/section8/section8_button_hover.png") top left no-repeat;
+
+    width: 318px;
+    height: 92px;
+}
+
+div.section_8_button0
+{
+    float: left;
+    margin-left: 70px;
+}
+
+div.section_8_button1
+{
+    float: left;
+    margin-left: 55px;
+}
+
+div.section_8_button2
+{
+    float: left;
+    margin-left: 55px;
+}
+
 div.section_8_counter
 {
     width: 555px;

@@ -60,8 +60,8 @@ div.footer_logo
 
 div.footer_contacts
 {
-    width: 255px;
-    height: 40px;
+    width: 260px;
+    height: 65px;
 
     float: right;
 
@@ -80,10 +80,6 @@ h3.footer_copyright
     font-weight: normal;
 
     color: #414042;
-
-    float: right;
-
-    margin-right: 80px;
 }
 
 
