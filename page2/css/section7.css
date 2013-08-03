@@ -1,5 +1,40 @@
 div.section_7
 {
     width: 100%;
-    height: 470px;
+    height: 1080px;
+}
+
+div.section_7_0
+{
+    background: rgba(255, 255, 255, 0.1);
+    width: 100%;
+    height: 651px;
+}
+
+div.section_7_0_image
+{
+    background: url("../assets/section7/section_7_0_image.png");
+
+    width: 1200px;
+    height: 201px;
+}
+
+div.section_7_0_left
+{
+    width: 500px;
+    height: 400px;
+
+    float: left;
+
+    margin-left: 60px;
+}
+
+div.section_7_0_right
+{
+    width: 500px;
+    height: 400px;
+
+    float: left;
+
+    margin-left: 60px;
 }

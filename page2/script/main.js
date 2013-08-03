@@ -10,8 +10,7 @@ function onLoad()
 {
     getSkypeStatus('alexyanovskyschool', 'smallicon', 'call', '#skype_icon');
 
-
-//    startCountDown();
+    startCountDown();
 
     setTimeout(loadAssetsAsync, 1000);
 }
