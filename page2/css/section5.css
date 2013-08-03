@@ -150,3 +150,16 @@ div.section_5_4_right
 
     margin-left: 600px;
 }
+
+div.section_5_quote_close
+{
+    background: url("../assets/section5/section5_quote_close.png") no-repeat bottom right;
+
+    width: 1155px;
+    height: 1570px;
+
+    padding-right: 110px;
+
+    position: relative;
+
+}

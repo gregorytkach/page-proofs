@@ -68,3 +68,17 @@ div.section_4_column_right_text
 
     margin-left: 40px;
 }
+
+div.section_4_quote_open
+{
+    background: url("../assets/section4/section4_quote_open.png") no-repeat top left;
+
+    width: 1200px;
+    height: 200px;
+
+    padding-left: 110px;
+
+    position: relative;
+
+    left: -110px;
+}
