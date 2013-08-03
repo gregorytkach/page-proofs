@@ -66,3 +66,15 @@ div.stub100
     height: 100px;
 }
 
+div.stub500
+{
+    width: 100%;
+    height: 500px;
+}
+
+div.stub1000
+{
+    width: 100%;
+    height: 1000px;
+}
+

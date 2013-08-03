@@ -10,6 +10,15 @@ div.default
     text-align: center;
 }
 
+div.sections_left
+{
+    width: 675px;
+    height: 6530px;
+
+    float: right;
+    padding-right: 0;
+}
+
 .debug
 {
     background-color: greenyellow;

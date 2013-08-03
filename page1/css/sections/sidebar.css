@@ -1,12 +1,11 @@
 div.sidebar
 {
-    width: 303px;
-    height: 6535px;
+    width: 320px;
+    height: 6505px;
 
-    padding-left: 25px;
+    border-left: 2px solid #f3f4f6;
 
     float: right;
-    border-left: 2px solid #f3f4f6;
 }
 
 div.sidebar_video_header
@@ -19,6 +18,7 @@ div.sidebar_video_header
     background-color: #f2f2f3;
 
     padding: 10px 0;
+    margin-left: 10px;
 }
 
 iframe.sidebar_video
@@ -57,6 +57,7 @@ div.sidebar_quote_header
 
 h3.sidebar_quote_header_text
 {
+
     font-family: Arial, sans-serif;
     font-size: 23px;
     font-weight: normal;
@@ -87,7 +88,7 @@ h3.sidebar_quote_entry_text
     padding: 10px;
 
     font-family: Arial, sans-serif;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: normal;
 }
 
@@ -102,5 +103,6 @@ h3.sidebar_quote_description
 
 div.sidebar_quote0
 {
-    width: 300px;
+    width: 320px;
+    padding-left: 5px;
 }

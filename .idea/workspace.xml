@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89af8882-e422-44c8-9a89-f341fd97ad7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/assets/section2/image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/section1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/css/section2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/section2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/css/text/textStylesLighter.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/colors.css" afterPath="$PROJECT_DIR$/page2/css/colors.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/index.html" afterPath="$PROJECT_DIR$/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section1.css" afterPath="$PROJECT_DIR$/page2/css/section1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page1/section_0_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/common_styles.css" afterPath="$PROJECT_DIR$/page1/css/common_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/index.html" afterPath="$PROJECT_DIR$/page1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/section1.css" afterPath="$PROJECT_DIR$/page1/css/sections/section1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/sidebar.css" afterPath="$PROJECT_DIR$/page1/css/sections/sidebar.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/stubs.css" afterPath="$PROJECT_DIR$/common/css/stubs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStylesBold.css" afterPath="$PROJECT_DIR$/common/css/text/textStylesBold.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="page-proofs.iws" />
@@ -74,7 +70,7 @@
       <file leaf-file-name="section1.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page2/section1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="171" selection-start="6927" selection-end="6927" vertical-scroll-proportion="0.1010274">
+            <state line="192" column="161" selection-start="7851" selection-end="7851" vertical-scroll-proportion="0.56335616">
               <folding />
             </state>
           </provider>
@@ -573,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page2/section1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="171" selection-start="6927" selection-end="6927" vertical-scroll-proportion="0.1010274">
+        <state line="192" column="161" selection-start="7851" selection-end="7851" vertical-scroll-proportion="0.56335616">
           <folding />
         </state>
       </provider>
