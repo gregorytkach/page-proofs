@@ -1,0 +1,14 @@
+div.section_9
+{
+    width: 100%;
+    height: 243px;
+}
+
+div.section_9_text_image
+{
+    width: 925px;
+    height: 40px;
+
+    background: url("../assets/section9/section9_text.png") top left no-repeat;
+    margin-left: 135px;
+}
