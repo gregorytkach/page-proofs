@@ -7,6 +7,8 @@
  */
 function onLoad()
 {
+    createPopup();
+
     startCountDown();
 
     setTimeout(loadAssetsAsync, 1000);

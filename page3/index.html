@@ -33,12 +33,16 @@
     <link rel="stylesheet" type="text/css" href="css/section_left.css">
     <link rel="stylesheet" type="text/css" href="css/section_right.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <link rel="stylesheet" type="text/css" href="css/popup.css">
 
     <!--scripts-->
     <script type="text/javascript" src="../common/script/jQuery/1.8.0/jquery.min.js"></script>
     <script type="text/javascript" src="../common/script/assetsLoader.js"></script>
 
     <script type="text/javascript" src="script/main.js"></script>
+
+    <!--popup-->
+    <script type="text/javascript" src="script/popup.js"></script>
 
 
     <!--counter-->
@@ -47,6 +51,74 @@
 
 </head>
 <body class="default_body" onload="onLoad()">
+
+<!-- #dialog is the id of a DIV defined in the code below -->
+<!--<a href="#dialog" name="modal">Simple Modal Window</a>-->
+<div id="boxes">
+    <!-- #customize your modal window here -->
+    <div class="window">
+        <div class="popup_content">
+
+            <div class="popup_button_exit"></div>
+
+            <div class="stub30"></div>
+
+            <div class="section_popup_0_text">
+                <h3 class="text_arial_22_bold">
+                    До получения уникальных видео-уроков
+                </h3>
+
+                <div class="stub15"></div>
+
+                <h3 class="text_arial_35_bold">
+                    <span>остался всего 1 шаг:</span>
+                </h3>
+
+                <div class="stub15"></div>
+
+                <h3 class="text_arial_22">
+                    введите свои данные в форму ниже <br>
+                    и нажмите кнопку "<span>ПОЛУЧИТЬ</span>"
+                </h3>
+            </div>
+
+            <div class="stub50"></div>
+            <div class="stub30"></div>
+
+
+            <div class="section_popup_1_form">
+                <form action="http://app.getresponse.com/add_contact_webform.html" method="post">
+                    <div>
+                        <input type="text" onblur="if(this.value=='')this.value=this.defaultValue;"
+                               onfocus="if(this.value==this.defaultValue)this.value='';"
+                               value="Ваше имя:" name="fullname" id="name">
+                        <br>
+                        <input type="text" onblur="if(this.value=='')this.value=this.defaultValue;"
+                               onfocus="if(this.value==this.defaultValue)this.value='';"
+                               value="Ваш E-Mail:" name="email" id="email">
+                    </div>
+
+                    <div class="stub5"></div>
+                    <div class="section_popup_button"></div>
+
+                </form>
+            </div>
+
+            <div class="stub50"></div>
+            <div class="stub20"></div>
+
+            <div class="section_popup_2_text">
+                <h3 class="text_arial_25">
+                    Обязательно проверьте Ваш e-mail, <br>
+                    после нажатия кнопки "Получить"
+                </h3>
+            </div>
+        </div>
+    </div>
+
+    <!-- Do not remove div#mask, because you'll need it to fill the whole screen -->
+    <div id="mask"></div>
+</div>
 
 <div class="content debug">
     <div class="section_left">
@@ -68,8 +140,6 @@
 
         <div class="section_left_3_shadow">
             <div class="section_left_4_counter">
-                <!--<div class="stub100"></div>-->
-                <!--<div class="stub50"></div>-->
                 <div class="stub5"></div>
 
                 <div class="timer">
@@ -178,6 +248,5 @@
     <a href="http://alexyanovsky.com/politika-konfidencialnosti">Политика конфиденциальности</a>
 </div>
 <div class="stub50"></div>
-
 </body>
 </html>
