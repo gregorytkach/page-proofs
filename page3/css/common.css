@@ -1,0 +1,11 @@
+body.default_body {
+    background-color: #2a464f;
+}
+
+div.content {
+    width: 1200px;
+    height: 709px;
+
+    margin: 0 auto;
+    background: url("../assets/body_bg.jpg") top center no-repeat;
+}

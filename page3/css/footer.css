@@ -1,0 +1,22 @@
+div.footer {
+    width: 1200px;
+
+    margin: 0 auto;
+
+    font-family: 'Russo One', 'Scada', sans-serif;
+    font-size: 12px;
+
+    text-align: center;
+}
+
+div.footer a {
+    color: #0c8fc2;
+}
+
+div.footer a:hover {
+    text-decoration: none;
+}
+
+div.footer a+a {
+    margin-left: 55px;
+}
