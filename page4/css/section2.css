@@ -1,0 +1,35 @@
+div.section2
+{
+    width: 100%;
+    height: 1530px;
+
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid #a4a093;
+}
+
+div.section2 img
+{
+    width: 440px;
+    height: 592px;
+
+    margin-left: 100px;
+    float: left;
+}
+
+div.section2 li
+{
+    list-style-image: url("../assets/body/list_item_blue_dot.png");
+
+    margin-left: 610px;
+    padding-left: 20px;
+}
+
+div.section2_0
+{
+    width: 1007px;
+    height: 162px;
+
+    background-color: #c3e5eb;
+    border-radius: 10px;
+    text-align: center;
+}

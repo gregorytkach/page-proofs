@@ -2,246 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89af8882-e422-44c8-9a89-f341fd97ad7f" name="Default" comment="Merge branch 'master' of https://github.com/gregorytkach/page-proofs&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/body/background.jpg" afterPath="$PROJECT_DIR$/page0/assets/body/background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/body/background.jpg" afterPath="$PROJECT_DIR$/page2/assets/body/background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section3/background.jpg" afterPath="$PROJECT_DIR$/page2/assets/section3/background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/header/background.png" afterPath="$PROJECT_DIR$/page2/assets/header/background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/lists/bg_((.png" afterPath="$PROJECT_DIR$/page1/assets/lists/bg_((.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/lists/bg_)).png" afterPath="$PROJECT_DIR$/page1/assets/lists/bg_)).png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section0/button.jpg" afterPath="$PROJECT_DIR$/page1/assets/section0/button.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_center.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_center_clicked.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_center_clicked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_left.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_left_clicked.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_left_clicked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_right.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_right_clicked.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/details/button_details_right_clicked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section0/button_hover.jpg" afterPath="$PROJECT_DIR$/page1/assets/section0/button_hover.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_152x56.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_152x56.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_152x56_clicked.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_152x56_clicked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/buttons/button_order_202x68.png" afterPath="$PROJECT_DIR$/page0/assets/page0/buttons/button_order_202x68.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/buttons/button_order_202x68_clicked.png" afterPath="$PROJECT_DIR$/page0/assets/page0/buttons/button_order_202x68_clicked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_212x80.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_212x80.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_212x80_clicked.png" afterPath="$PROJECT_DIR$/page0/assets/header/buttons/order/button_order_212x80_clicked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section0/button_registration.png" afterPath="$PROJECT_DIR$/page2/assets/section0/button_registration.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section0/button_registration_hover.png" afterPath="$PROJECT_DIR$/page2/assets/section0/button_registration_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/counter/counter_background.png" afterPath="$PROJECT_DIR$/page0/assets/counter/counter_background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/footer/footer.jpg" afterPath="$PROJECT_DIR$/page1/assets/footer/footer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/footer/footer_background.jpg" afterPath="$PROJECT_DIR$/page0/assets/footer/footer_background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/footer/footer_email_icon.jpg" afterPath="$PROJECT_DIR$/page1/assets/footer/footer_email_icon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/footer/footer_email_icon.png" afterPath="$PROJECT_DIR$/page2/assets/footer/footer_email_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/footer/footer_image.png" afterPath="$PROJECT_DIR$/page2/assets/footer/footer_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/footer/footer_logo.png" afterPath="$PROJECT_DIR$/page0/assets/footer/footer_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/footer/footer_logo.png" afterPath="$PROJECT_DIR$/page1/assets/footer/footer_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/footer/footer_logo.png" afterPath="$PROJECT_DIR$/page2/assets/footer/footer_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/footer/footer_shadow.png" afterPath="$PROJECT_DIR$/page0/assets/footer/footer_shadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/footer/footer_text_header_0.png" afterPath="$PROJECT_DIR$/page2/assets/footer/footer_text_header_0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/footer/footer_text_header_1.png" afterPath="$PROJECT_DIR$/page2/assets/footer/footer_text_header_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/header/header_button_learning.png" afterPath="$PROJECT_DIR$/page1/assets/header/header_button_learning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/header/header_button_partner.png" afterPath="$PROJECT_DIR$/page1/assets/header/header_button_partner.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/header/header_button_star.png" afterPath="$PROJECT_DIR$/page1/assets/header/header_button_star.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/center/header_discount_40.png" afterPath="$PROJECT_DIR$/page0/assets/header/center/header_discount_40.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/items/header_item_background.png" afterPath="$PROJECT_DIR$/page0/assets/header/items/header_item_background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/center/header_item_center_background.png" afterPath="$PROJECT_DIR$/page0/assets/header/center/header_item_center_background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/items/header_item_discount_15.png" afterPath="$PROJECT_DIR$/page0/assets/header/items/header_item_discount_15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/items/header_item_price0.png" afterPath="$PROJECT_DIR$/page0/assets/header/items/header_item_price0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/items/header_item_price1.png" afterPath="$PROJECT_DIR$/page0/assets/header/items/header_item_price1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/items/header_item_price2.png" afterPath="$PROJECT_DIR$/page0/assets/header/items/header_item_price2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/items/header_item_price3.png" afterPath="$PROJECT_DIR$/page0/assets/header/items/header_item_price3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/header/center/header_item_price_center.png" afterPath="$PROJECT_DIR$/page0/assets/header/center/header_item_price_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/header/header_logo.png" afterPath="$PROJECT_DIR$/page1/assets/header/header_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/footer/icon_mail.png" afterPath="$PROJECT_DIR$/page0/assets/footer/icon_mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/common/icons/icon_million.png" afterPath="$PROJECT_DIR$/page0/assets/common/icons/icon_million.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/common/icons/icon_science.png" afterPath="$PROJECT_DIR$/page0/assets/common/icons/icon_science.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/common/icons/icon_set.png" afterPath="$PROJECT_DIR$/page0/assets/common/icons/icon_set.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/footer/icon_skype.png" afterPath="$PROJECT_DIR$/page0/assets/footer/icon_skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/common/icons/icon_target.png" afterPath="$PROJECT_DIR$/page0/assets/common/icons/icon_target.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/common/icons/icon_whale.png" afterPath="$PROJECT_DIR$/page0/assets/common/icons/icon_whale.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/common/icons/icon_white_circle.png" afterPath="$PROJECT_DIR$/page0/assets/common/icons/icon_white_circle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section2/image.jpg" afterPath="$PROJECT_DIR$/page2/assets/section2/image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/common/list_item_blue_square.gif" afterPath="$PROJECT_DIR$/page2/assets/common/list_item_blue_square.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/lists/list_item_dot.png" afterPath="$PROJECT_DIR$/page1/assets/lists/list_item_dot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/common/list_item_orange_square.gif" afterPath="$PROJECT_DIR$/page2/assets/common/list_item_orange_square.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/pageCommon/list_item_point.png" afterPath="$PROJECT_DIR$/page0/assets/pageCommon/list_item_point.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/lists/list_item_square.png" afterPath="$PROJECT_DIR$/page1/assets/lists/list_item_square.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/mega_discounts/mega_discounts.png" afterPath="$PROJECT_DIR$/page0/assets/mega_discounts/mega_discounts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/page-proofs.iml" afterPath="$PROJECT_DIR$/.idea/page-proofs.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/background/page0_background.jpg" afterPath="$PROJECT_DIR$/page0/assets/page0/background/page0_background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/page0_list_item_star.png" afterPath="$PROJECT_DIR$/page0/assets/page0/page0_list_item_star.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/shadow/page0_shadow_bottom.png" afterPath="$PROJECT_DIR$/page0/assets/page0/shadow/page0_shadow_bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/shadow/page0_shadow_left.png" afterPath="$PROJECT_DIR$/page0/assets/page0/shadow/page0_shadow_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page0/shadow/page0_shadow_right.png" afterPath="$PROJECT_DIR$/page0/assets/page0/shadow/page0_shadow_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page1/page1_icon0.png" afterPath="$PROJECT_DIR$/page0/assets/page1/page1_icon0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page1/page1_icon1.png" afterPath="$PROJECT_DIR$/page0/assets/page1/page1_icon1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_bottom.png" afterPath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_left.png" afterPath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_right.png" afterPath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_top.png" afterPath="$PROJECT_DIR$/page0/assets/page1/shadow/page1_shadow_top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page2/page2_icon0.png" afterPath="$PROJECT_DIR$/page0/assets/page2/page2_icon0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_bottom.png" afterPath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_left.png" afterPath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_right.png" afterPath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_top.png" afterPath="$PROJECT_DIR$/page0/assets/page2/shadow/page2_shadow_top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page3/page3_icon0.png" afterPath="$PROJECT_DIR$/page0/assets/page3/page3_icon0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_bottom.png" afterPath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_left.png" afterPath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_right.png" afterPath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_top.png" afterPath="$PROJECT_DIR$/page0/assets/page3/shadow/page3_shadow_top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page4/page4_icon0.png" afterPath="$PROJECT_DIR$/page0/assets/page4/page4_icon0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_bottom.png" afterPath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_bottom.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_left.png" afterPath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_right.png" afterPath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_top.png" afterPath="$PROJECT_DIR$/page0/assets/page4/shadow/page4_shadow_top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page5/shadow/page5_shadow_left.png" afterPath="$PROJECT_DIR$/page0/assets/page5/shadow/page5_shadow_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page5/shadow/page5_shadow_right.png" afterPath="$PROJECT_DIR$/page0/assets/page5/shadow/page5_shadow_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/page5/shadow/page5_shadow_top.png" afterPath="$PROJECT_DIR$/page0/assets/page5/shadow/page5_shadow_top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/assets/pageCommon/page_strip.jpg" afterPath="$PROJECT_DIR$/page0/assets/pageCommon/page_strip.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section0/photo0.jpg" afterPath="$PROJECT_DIR$/page2/assets/section0/photo0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section0/photo1.jpg" afterPath="$PROJECT_DIR$/page2/assets/section0/photo1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section10/section10_header_text.png" afterPath="$PROJECT_DIR$/page2/assets/section10/section10_header_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section12/section12_header.png" afterPath="$PROJECT_DIR$/page2/assets/section12/section12_header.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section4/section4_quote_open.png" afterPath="$PROJECT_DIR$/page2/assets/section4/section4_quote_open.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section5_quote_close.png" afterPath="$PROJECT_DIR$/page2/assets/section5/section5_quote_close.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section8/section8_button.png" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_button.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section8/section8_button_hover.png" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_button_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section8/section8_counter.png" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_counter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section8/section8_header_text.png" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_header_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section8/section8_image.png" afterPath="$PROJECT_DIR$/page2/assets/section8/section8_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section9/section9_text.png" afterPath="$PROJECT_DIR$/page2/assets/section9/section9_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section0/section_0_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section0/section_0_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section1/section_1_1_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section1/section_1_1_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section1/section_1_2_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section1/section_1_2_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section1/section_1_3_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section1/section_1_3_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section1/section_1_4_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section1/section_1_4_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section1/section_1_7_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section1/section_1_7_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/assets/section1/section_1_9_image.jpg" afterPath="$PROJECT_DIR$/page1/assets/section1/section_1_9_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section3/section_3_button.png" afterPath="$PROJECT_DIR$/page2/assets/section3/section_3_button.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section3/section_3_button_hover.png" afterPath="$PROJECT_DIR$/page2/assets/section3/section_3_button_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section3/section_3_header_text.png" afterPath="$PROJECT_DIR$/page2/assets/section3/section_3_header_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section4/section_4_column_left_text.png" afterPath="$PROJECT_DIR$/page2/assets/section4/section_4_column_left_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section4/section_4_column_right_text.png" afterPath="$PROJECT_DIR$/page2/assets/section4/section_4_column_right_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section4/section_4_header_text.png" afterPath="$PROJECT_DIR$/page2/assets/section4/section_4_header_text.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_0_photo.jpg" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_0_photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_0_quote.png" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_0_quote.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_1_photo.jpg" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_1_photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_1_quote.png" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_1_quote.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_2_photo.jpg" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_2_photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_2_quote.png" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_2_quote.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_3_photo.jpg" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_3_photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section5/section_5_3_quote.png" afterPath="$PROJECT_DIR$/page2/assets/section5/section_5_3_quote.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section6/section_6_3_image.png" afterPath="$PROJECT_DIR$/page2/assets/section6/section_6_3_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section6/section_6_header_1.png" afterPath="$PROJECT_DIR$/page2/assets/section6/section_6_header_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section6/section_6_image.png" afterPath="$PROJECT_DIR$/page2/assets/section6/section_6_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section7/section_7_0_image.png" afterPath="$PROJECT_DIR$/page2/assets/section7/section_7_0_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section7/section_7_image_star.png" afterPath="$PROJECT_DIR$/page2/assets/section7/section_7_image_star.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/assets/section0/text_image.png" afterPath="$PROJECT_DIR$/page2/assets/section0/text_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/assetsLoader.js" afterPath="$PROJECT_DIR$/common/script/assetsLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/text/backgroundColors.css" afterPath="$PROJECT_DIR$/page0/css/text/backgroundColors.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/border.css" afterPath="$PROJECT_DIR$/common/css/border.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/buttons/buttonsDetails.css" afterPath="$PROJECT_DIR$/page0/css/buttons/buttonsDetails.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/buttons/buttonsOrder.css" afterPath="$PROJECT_DIR$/page0/css/buttons/buttonsOrder.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/text/colorStyles.css" afterPath="$PROJECT_DIR$/page0/css/text/colorStyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/colors.css" afterPath="$PROJECT_DIR$/page2/css/colors.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/colors/colors_background.css" afterPath="$PROJECT_DIR$/common/css/colors/colors_background.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/colors/colors_background.css" afterPath="$PROJECT_DIR$/page1/css/colors/colors_background.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/colors/colors_content.css" afterPath="$PROJECT_DIR$/common/css/colors/colors_content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/colors/colors_content.css" afterPath="$PROJECT_DIR$/page1/css/colors/colors_content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/colors/colors_gradient.css" afterPath="$PROJECT_DIR$/common/css/colors/colors_gradient.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/colors/colors_transparency.css" afterPath="$PROJECT_DIR$/common/css/colors/colors_transparency.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/common.css" afterPath="$PROJECT_DIR$/page2/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/commonStyles.css" afterPath="$PROJECT_DIR$/page0/css/commonStyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/common_styles.css" afterPath="$PROJECT_DIR$/page1/css/common_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/content/content_alignment.css" afterPath="$PROJECT_DIR$/common/css/content/content_alignment.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/counter/counter.css" afterPath="$PROJECT_DIR$/page0/css/counter/counter.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/cssreset.css" afterPath="$PROJECT_DIR$/common/css/cssreset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/debug.css" afterPath="$PROJECT_DIR$/common/css/debug.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/footer/footer.css" afterPath="$PROJECT_DIR$/page0/css/footer/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/footer.css" afterPath="$PROJECT_DIR$/page1/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/footer.css" afterPath="$PROJECT_DIR$/page2/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/gplus-youtubeembed.js" afterPath="$PROJECT_DIR$/common/script/gplus-youtubeembed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/header.css" afterPath="$PROJECT_DIR$/page1/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/header.css" afterPath="$PROJECT_DIR$/page2/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/header.html" afterPath="$PROJECT_DIR$/page2/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/header/header_base.css" afterPath="$PROJECT_DIR$/page0/css/header/header_base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/header/header_item_center.css" afterPath="$PROJECT_DIR$/page0/css/header/header_item_center.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/header/header_items_left.css" afterPath="$PROJECT_DIR$/page0/css/header/header_items_left.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/header/header_items_right.css" afterPath="$PROJECT_DIR$/page0/css/header/header_items_right.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/index.html" afterPath="$PROJECT_DIR$/page0/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/index.html" afterPath="$PROJECT_DIR$/page1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/index.html" afterPath="$PROJECT_DIR$/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown-ru.js" afterPath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown-ru.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown.css" afterPath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/jquery.countdown.css" afterPath="$PROJECT_DIR$/page2/css/jquery.countdown.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown.min.js" afterPath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown/jquery.countdown.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/1.3.2/jquery.min.js" afterPath="$PROJECT_DIR$/common/script/jQuery/1.3.2/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/1.8.0/jquery.min.js" afterPath="$PROJECT_DIR$/common/script/jQuery/1.8.0/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/1.9.1/jquery.min.js" afterPath="$PROJECT_DIR$/common/script/jQuery/1.9.1/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/jquery.min.js" afterPath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/script/vendors/jquery.min.js" afterPath="$PROJECT_DIR$/page1/script/vendors/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/jquery.scrollTo-min.js" afterPath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/jquery.scrollTo-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/back/main.css" afterPath="$PROJECT_DIR$/page0/css/back/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/scripts/main.js" afterPath="$PROJECT_DIR$/page0/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/script/main.js" afterPath="$PROJECT_DIR$/page1/script/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/script/main.js" afterPath="$PROJECT_DIR$/page2/script/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page3/script/main.js" afterPath="$PROJECT_DIR$/page3/script/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/mega_discounts.css" afterPath="$PROJECT_DIR$/page0/css/mega_discounts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/scripts/vendor/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/page0/scripts/vendor/modernizr-2.6.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/back/normalize.css" afterPath="$PROJECT_DIR$/page0/css/back/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/page0/page0.css" afterPath="$PROJECT_DIR$/page0/css/page0/page0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/page1/page1.css" afterPath="$PROJECT_DIR$/page0/css/page1/page1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/page2/page2.css" afterPath="$PROJECT_DIR$/page0/css/page2/page2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/page3/page3.css" afterPath="$PROJECT_DIR$/page0/css/page3/page3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/page4/page4.css" afterPath="$PROJECT_DIR$/page0/css/page4/page4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/page5/page5.css" afterPath="$PROJECT_DIR$/page0/css/page5/page5.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/css/pageBase/pageBase.css" afterPath="$PROJECT_DIR$/page0/css/pageBase/pageBase.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page0/scripts/plugins.js" afterPath="$PROJECT_DIR$/page0/scripts/plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page3/script/popup.js" afterPath="$PROJECT_DIR$/page3/script/popup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/quotes.css" afterPath="$PROJECT_DIR$/page1/css/quotes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/section0.css" afterPath="$PROJECT_DIR$/page1/css/sections/section0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section0.css" afterPath="$PROJECT_DIR$/page2/css/section0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/section1.css" afterPath="$PROJECT_DIR$/page1/css/sections/section1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section1.css" afterPath="$PROJECT_DIR$/page2/css/section1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section10.css" afterPath="$PROJECT_DIR$/page2/css/section10.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section11.css" afterPath="$PROJECT_DIR$/page2/css/section11.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section12.css" afterPath="$PROJECT_DIR$/page2/css/section12.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section2.css" afterPath="$PROJECT_DIR$/page2/css/section2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section3.css" afterPath="$PROJECT_DIR$/page2/css/section3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section4.css" afterPath="$PROJECT_DIR$/page2/css/section4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section5.css" afterPath="$PROJECT_DIR$/page2/css/section5.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section6.css" afterPath="$PROJECT_DIR$/page2/css/section6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section7.css" afterPath="$PROJECT_DIR$/page2/css/section7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section8.css" afterPath="$PROJECT_DIR$/page2/css/section8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page2/css/section9.css" afterPath="$PROJECT_DIR$/page2/css/section9.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/sectionBase.css" afterPath="$PROJECT_DIR$/page1/css/sections/sectionBase.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/sections/sidebar.css" afterPath="$PROJECT_DIR$/page1/css/sections/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/skype/skype-uri.js" afterPath="$PROJECT_DIR$/common/script/skype/skype-uri.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/skype/skypeStatus.js" afterPath="$PROJECT_DIR$/common/script/skype/skypeStatus.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/stubs.css" afterPath="$PROJECT_DIR$/common/css/stubs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textDecoration.css" afterPath="$PROJECT_DIR$/common/css/text/textDecoration.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textHeight.css" afterPath="$PROJECT_DIR$/common/css/text/textHeight.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStyles.css" afterPath="$PROJECT_DIR$/common/css/text/textStyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStylesBold.css" afterPath="$PROJECT_DIR$/common/css/text/textStylesBold.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStylesLighter.css" afterPath="$PROJECT_DIR$/common/css/text/textStylesLighter.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textType.css" afterPath="$PROJECT_DIR$/common/css/text/textType.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page1/css/text/text_styles.css" afterPath="$PROJECT_DIR$/page1/css/text/text_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="page-proofs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378327729352" ignored="false" />
-    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375957554849" ignored="false" />
-    <file path="/common.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375436558570" ignored="false" />
-    <file path="/header.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375435641355" ignored="false" />
+    <file path="/Dummy.txt" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378329227581" ignored="false" />
+    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378404643496" ignored="false" />
+    <file path="/common.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378357918606" ignored="false" />
+    <file path="/header.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378395310769" ignored="false" />
     <file path="/transparency.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375430164075" ignored="false" />
     <file path="/colors_background.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375432384646" ignored="false" />
-    <file path="/colors.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375503616657" ignored="false" />
+    <file path="/colors.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378402159585" ignored="false" />
     <file path="/content_gradient.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375433980215" ignored="false" />
     <file path="/colors_content.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375495812012" ignored="false" />
     <file path="/section0_photo.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375440499234" ignored="false" />
@@ -250,13 +29,13 @@
     <file path="/page9.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442886187" ignored="false" />
     <file path="/textStyles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442548140" ignored="false" />
     <file path="/textStylesBold.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375442607254" ignored="false" />
-    <file path="/section2.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375502892762" ignored="false" />
+    <file path="/section2.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378404850891" ignored="false" />
     <file path="/textStyleLighter.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375446657174" ignored="false" />
     <file path="/sidebar.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375513266466" ignored="false" />
     <file path="/common_styles.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375513967751" ignored="false" />
     <file path="/footer.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375511897631" ignored="false" />
     <file path="/skypeStatus.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375458721600" ignored="false" />
-    <file path="/section0.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375514028031" ignored="false" />
+    <file path="/section0.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378395819586" ignored="false" />
     <file path="/section3.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375485765146" ignored="false" />
     <file path="/section4.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375487719350" ignored="false" />
     <file path="/border.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375487045802" ignored="false" />
@@ -291,73 +70,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page2/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="992" column="33" selection-start="33165" selection-end="33172" vertical-scroll-proportion="0.0">
+            <state line="133" column="30" selection-start="5109" selection-end="5109" vertical-scroll-proportion="0.5897436">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page1/index.html">
+      <file leaf-file-name="colors.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/css/colors.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="18" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0">
+            <state line="7" column="18" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stubs.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/css/stubs.css">
+      <file leaf-file-name="header.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/css/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="101" selection-start="349" selection-end="349" vertical-scroll-proportion="0.3391473">
+            <state line="3" column="15" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page3/index.html">
+      <file leaf-file-name="section0.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/css/section0.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="19" selection-start="2659" selection-end="2659" vertical-scroll-proportion="0.0">
+            <state line="6" column="18" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page3/script/popup.js">
+      <file leaf-file-name="section1.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/css/section1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="116" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
+            <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page3/css/popup.css">
+      <file leaf-file-name="section2.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/css/section2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="163" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+            <state line="33" column="22" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page3/script/main.js">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="4" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.countdown.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+            <state line="5" column="18" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -381,14 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/page1/css/common_styles.css" />
-        <option value="$PROJECT_DIR$/page2/css/section7.css" />
-        <option value="$PROJECT_DIR$/page2/index.html" />
-        <option value="$PROJECT_DIR$/page2/script/main.js" />
-        <option value="$PROJECT_DIR$/page3/back/jquery.countdown.css" />
-        <option value="$PROJECT_DIR$/page3/back/js/script.js" />
-        <option value="$PROJECT_DIR$/page3/back/js/index.html" />
-        <option value="$PROJECT_DIR$/page3/back/index.html" />
         <option value="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.css" />
         <option value="$PROJECT_DIR$/page3/back/pop.css" />
         <option value="$PROJECT_DIR$/page3/script/main.js" />
@@ -397,10 +159,19 @@
         <option value="$PROJECT_DIR$/page3/index.html" />
         <option value="$PROJECT_DIR$/page3/css/popup.css" />
         <option value="$PROJECT_DIR$/page3/script/popup.js" />
+        <option value="$PROJECT_DIR$/page4/css/header.css" />
+        <option value="$PROJECT_DIR$/page4/css/section1.css" />
+        <option value="$PROJECT_DIR$/page4/css/common.css" />
+        <option value="$PROJECT_DIR$/page4/css/section0.css" />
+        <option value="$PROJECT_DIR$/page4/css/colors.css" />
+        <option value="$PROJECT_DIR$/common/css/text/textHeight.css" />
+        <option value="$PROJECT_DIR$/page4/index.html" />
+        <option value="$PROJECT_DIR$/page4/css/section2.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-5" />
     <option name="y" value="22" />
     <option name="width" value="1852" />
     <option name="height" value="1178" />
@@ -431,6 +202,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -445,7 +217,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.rateplay.page-proofs" />
+              <option name="myItemId" value="page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -455,30 +227,101 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.rateplay.page-proofs" />
+              <option name="myItemId" value="page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page3" />
+              <option name="myItemId" value="page4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-proofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/page0/index.html" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -492,7 +335,7 @@
       <recent name="$PROJECT_DIR$/page3/back" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.page3">
+  <component name="RunManager" selected="JavaScript Debug.page4">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -553,42 +396,22 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="page9" type="JavascriptDebugSession" factoryName="Local">
+    <configuration default="false" name="page4" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="firefox" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/page2/page9.html" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/page4/index.html" />
       </JSDebuggerConfigurationSettings>
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="page12" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="firefox" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/page2/section12.html" />
-      </JSDebuggerConfigurationSettings>
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="page3_test" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="firefox" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/page3/back/index.html" />
-      </JSDebuggerConfigurationSettings>
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <list size="8">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.publish" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page0" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.page1" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page2" />
       <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page3" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page9" />
-      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.page12" />
-      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.page3_test" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page4" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -618,14 +441,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1852" height="1178" extended-state="0" />
-    <editor active="false" />
+    <frame x="-5" y="22" width="1852" height="1178" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986331" sideWeight="0.60018903" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39981097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986331" sideWeight="0.6009434" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3990566" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -702,106 +525,114 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page3/script/popup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="116" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page3/css/popup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="163" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page3/script/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/css/border.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page3/script/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page3/css/section_left.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="3" selection-start="1964" selection-end="1964" vertical-scroll-proportion="0.6540362" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="992" column="33" selection-start="33165" selection-end="33172" vertical-scroll-proportion="0.0">
+        <state line="12" column="45" selection-start="229" selection-end="269" vertical-scroll-proportion="0.2955665">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="19" selection-start="2659" selection-end="2659" vertical-scroll-proportion="0.0">
+        <state line="244" column="16" selection-start="7850" selection-end="7850" vertical-scroll-proportion="0.6666667">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page3/css/popup.css">
+    <entry file="file://$PROJECT_DIR$/page3/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="163" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+        <state line="21" column="6" selection-start="154" selection-end="284" vertical-scroll-proportion="0.51724136">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page0/scripts/main.js">
+    <entry file="file://$PROJECT_DIR$/page2/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="14" selection-start="787" selection-end="826" vertical-scroll-proportion="0.3328446" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page3/script/popup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="116" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page1/index.html">
+    <entry file="file://$PROJECT_DIR$/page2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="18" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0">
+        <state line="101" column="19" selection-start="4138" selection-end="4329" vertical-scroll-proportion="0.2786325">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/css/stubs.css">
+    <entry file="file://$PROJECT_DIR$/page4/css/section1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="101" selection-start="349" selection-end="349" vertical-scroll-proportion="0.3391473">
+        <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="15" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/css/section0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/css/colors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/css/colors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/css/sections/sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/css/text/textHeight.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="20" selection-start="444" selection-end="444" vertical-scroll-proportion="0.7536946">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/css/content/content_alignment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="0.12315271">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/css/section2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="22" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="30" selection-start="5109" selection-end="5109" vertical-scroll-proportion="0.5897436">
           <folding />
         </state>
       </provider>

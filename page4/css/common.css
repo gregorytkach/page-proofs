@@ -1,0 +1,15 @@
+body.defaultBody
+{
+    background: url("../assets/body/background.png") top center no-repeat #fcf5e0;
+
+    min-width: 1200px;
+    min-height: 20000px;
+}
+
+div.content
+{
+    width: 1200px;
+    margin: 0 auto;
+
+    text-align: center;
+}
