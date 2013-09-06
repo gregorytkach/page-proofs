@@ -30,3 +30,11 @@ div.shadow_bottom
     background-image: radial-gradient(at 50% 100%, rgba(164, 160, 147, 0.5), rgba(164, 160, 147, 0.05) 40%, rgba(164, 160, 147, 0));
 
 }
+
+div.module_num
+{
+    width: 90px;
+    height: 90px;
+
+    border-radius: 10px;
+}
