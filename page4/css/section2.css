@@ -26,10 +26,59 @@ div.section2 li
 
 div.section2_0
 {
-    width: 1007px;
+    width: 1008px;
     height: 162px;
 
     background-color: #c3e5eb;
     border-radius: 10px;
-    text-align: center;
+
+    margin-left: 96px;
 }
+
+div.section2_1
+{
+    width: 1008px;
+    height: 300px;
+
+    background-color: #5ac8ff;
+    border-radius: 10px;
+
+    margin-left: 96px;
+}
+
+h1.section2_1_question
+{
+    font-family: Arial, sans-serif;
+    font-size: 300px;
+
+    color: #ffffff;
+    text-shadow: -1px -1px 0 #f0f1f1, -3px -3px 0 #a9aaaa;
+
+    margin-left: 55px;
+    float: left;
+}
+
+div.section2_1 h3
+{
+    margin-left: 240px;
+}
+
+div.section2_1 span
+{
+    font-weight: bold;
+}
+
+div.section2_2
+{
+    width: 181px;
+    height: 187px;
+
+    background: url("../assets/section2/yes.png") top center no-repeat;
+
+    float: right;
+
+    margin-right: 445px;
+    margin-left: 25px;
+}
+
+
