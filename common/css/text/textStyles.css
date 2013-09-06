@@ -157,3 +157,11 @@
 
     font-weight: normal;
 }
+
+.text_arial_100
+{
+    font-family: Arial, sans-serif;
+    font-size: 100px;
+
+    font-weight: normal;
+}

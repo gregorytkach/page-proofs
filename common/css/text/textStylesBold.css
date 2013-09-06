@@ -149,3 +149,11 @@
 
     font-weight: bold;
 }
+
+.text_arial_100_bold
+{
+    font-family: Arial, sans-serif;
+    font-size: 100px;
+
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+div.section4
+{
+    width: 100%;
+    height: 890px;
+
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid #a4a093;
+}
+
+div.section4 img
+{
+    margin: 0 50px;
+    vertical-align: middle;
+}
+
+span.amp
+{
+    vertical-align: middle;
+}
+
+div.section4 h1
+{
+    float: left;
+    margin: 10px 20px 0 340px;
+}
+
+div.section4 h3
+{
+    margin: 0 150px;
+}
