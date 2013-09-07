@@ -1,0 +1,51 @@
+div.section15
+{
+    width: 100%;
+    height: 1810px;
+
+    border-bottom: 1px solid #a4a093;
+}
+
+div.section15 img
+{
+    float: left;
+    margin-left: 140px;
+    margin-top: -65px;
+}
+
+div.section15_0
+{
+    width: 740px;
+    height: 215px;
+
+    border-radius: 10px;
+
+    background-color: #e4eee5;
+
+    margin-left: 310px;
+}
+
+div.section15 li
+{
+    list-style-image: url("../assets/body/list_item_blue_dot.png");
+
+    margin-left: 210px;
+    padding-left: 20px;
+}
+
+h3.section15_1
+{
+    margin-left: 170px;
+}
+div.section15_2
+{
+    width: 865px;
+    height: 615px;
+
+    border-radius: 10px;
+
+    background-color: #fbe7c3;
+
+    padding: 20px;
+    margin-left: 150px;
+}

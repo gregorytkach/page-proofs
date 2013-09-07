@@ -54,6 +54,14 @@
     font-weight: bold;
 }
 
+.text_arial_21_bold
+{
+    font-family: Arial, sans-serif;
+    font-size: 21px;
+
+    font-weight: bold;
+}
+
 .text_arial_22_bold
 {
     font-family: Arial, sans-serif;
@@ -162,6 +170,14 @@
 {
     font-family: Arial, sans-serif;
     font-size: 76px;
+
+    font-weight: bold;
+}
+
+.text_arial_92_bold
+{
+    font-family: Arial, sans-serif;
+    font-size: 92px;
 
     font-weight: bold;
 }

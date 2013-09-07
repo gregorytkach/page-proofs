@@ -6,7 +6,6 @@ body.defaultBody
     min-height: 2000px;
 }
 
-/*TODO: remove*/
 div.bodyFilter
 {
     background: rgba(3, 12, 28, 0.7);

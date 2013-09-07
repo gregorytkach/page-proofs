@@ -1,0 +1,41 @@
+div.section13
+{
+    width: 100%;
+    height: 225px;
+
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid #a4a093;
+}
+
+div.section13 img
+{
+    float: right;
+
+    margin-right: 225px;
+    margin-top: -40px;
+}
+
+div.section13_0
+{
+    width:462px;
+    height:77px;
+
+    margin-left: 370px;
+
+    background: url("../assets/body/section13_button.png");
+}
+
+div.section13_0:hover
+{
+    background: url("../assets/body/section13_button_hover.png");
+}
+
+div.section13_1
+{
+    width:462px;
+    height:63px;
+
+    margin-left: 370px;
+
+    background: url("../assets/body/section13_button_shadow.png");
+}
