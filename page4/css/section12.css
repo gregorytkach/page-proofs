@@ -1,0 +1,32 @@
+div.section12
+{
+    width: 100%;
+    height: 840px;
+
+    border-bottom: 1px solid #a4a093;
+}
+
+
+div.section12_0
+{
+    margin-left: 430px;
+}
+
+div.section12 img
+{
+    float: right;
+    margin-right: 160px;
+}
+
+div.section12 li
+{
+    list-style-image: url("../assets/body/list_item_mod7.png");
+
+    margin-left: 220px;
+    padding-left: 20px;
+}
+
+h3.section12_1
+{
+    padding-left: 150px;
+}
