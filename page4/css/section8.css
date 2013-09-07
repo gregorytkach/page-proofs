@@ -1,0 +1,32 @@
+div.section8
+{
+    width: 100%;
+    height: 970px;
+
+    border-bottom: 3px dotted #a4a093;
+}
+
+
+div.section8_0
+{
+    margin-left: 430px;
+}
+
+div.section8 img
+{
+    float: left;
+    margin-left: 150px;
+}
+
+div.section8 li
+{
+    list-style-image: url("../assets/body/list_item_mod3.png");
+
+    margin-left: 550px;
+    padding-left: 20px;
+}
+
+div.section8_1 h3
+{
+    margin-left: 500px;
+}
