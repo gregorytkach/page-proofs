@@ -37,4 +37,39 @@ div.module_num
     height: 90px;
 
     border-radius: 10px;
+
+    float: left;
+    margin-right: 7px;
 }
+
+div.module_num h3
+{
+    font-family: Arial, sans-serif;
+    font-size: 76px;
+
+    font-weight: bold;
+    color: #ffffff;
+
+    margin-top: 8px;
+}
+
+div.module
+{
+    width: 240px;
+    height: 90px;
+
+    border-radius: 10px;
+    float: left;
+}
+
+div.module h3
+{
+    font-family: Arial, sans-serif;
+    font-size: 45px;
+
+    font-weight: bold;
+    color: #ffffff;
+
+    margin-top: 20px;
+}
+

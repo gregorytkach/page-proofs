@@ -150,6 +150,14 @@
     font-weight: bold;
 }
 
+.text_arial_60_bold
+{
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+
+    font-weight: bold;
+}
+
 .text_arial_76_bold
 {
     font-family: Arial, sans-serif;

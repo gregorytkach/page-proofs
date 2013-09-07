@@ -5,23 +5,9 @@ div.section5
 
     border-top: 1px solid #f8f8f8;
     border-bottom: 3px dotted #a4a093;
-
-
 }
 
 div.section5_0
 {
     margin-left: 250px;
-}
-
-div.section5_0 div
-{
-    float: left;
-    margin-right: 7px;
-}
-
-div.section5_0 div h3
-{
-    /*vertical-align: middle;*/
-    margin-top: 8px;
 }

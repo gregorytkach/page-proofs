@@ -1,0 +1,52 @@
+div.section6
+{
+    width: 100%;
+    height: 1040px;
+
+    border-bottom: 3px dotted #a4a093;
+}
+
+div.section6_0
+{
+    margin-left: 430px;
+}
+
+div.section6_1
+{
+    margin-left: 150px;
+}
+
+div.section6_1_0
+{
+    height: 325px;
+    float: left;
+
+    margin-top: 140px;
+}
+
+div.section6_1_1
+{
+    width: 425px;
+    height: 295px;
+
+    border-radius: 10px;
+    background-color: #e3e4e1;
+
+    margin-left: 390px;
+    padding-left: 105px;
+    padding-top: 25px;
+}
+
+div.section6_1_2
+{
+    position: absolute;
+    top: 4600px;
+}
+
+div.section6_1 li
+{
+    list-style-image: url("../assets/body/list_item_mod1.png");
+
+    margin-left: 150px;
+    padding-left: 20px;
+}
