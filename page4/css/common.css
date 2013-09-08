@@ -3,7 +3,7 @@ body.defaultBody
     background: url("../assets/body/background.jpg") top center no-repeat #fcf5e0;
 
     min-width: 1200px;
-    min-height: 20000px;
+    min-height: 26175px;
 }
 
 div.content
@@ -71,5 +71,28 @@ div.module h3
     color: #ffffff;
 
     margin-top: 20px;
+}
+
+div.quote
+{
+    width: 900px;
+    height: 210px;
+
+    margin-left: 150px;
+
+    text-align: left;
+    vertical-align: middle;
+}
+
+div.quote img
+{
+    float: left;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+div.quote h3
+{
+    vertical-align: middle;
 }
 

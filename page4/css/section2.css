@@ -18,7 +18,7 @@ div.section2 img
 
 div.section2 li
 {
-    list-style-image: url("../assets/body/list_item_blue_dot.png");
+    list-style-image: url("../assets/list_item/list_item_blue_dot.png");
 
     margin-left: 610px;
     padding-left: 20px;

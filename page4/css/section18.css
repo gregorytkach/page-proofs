@@ -1,0 +1,27 @@
+div.section18
+{
+    width: 100%;
+    height: 565px;
+
+    border-bottom: 3px dotted #a4a093;
+}
+
+img.section18_0
+{
+    float: left;
+
+    margin-left: 400px;
+    margin-right: 40px;
+}
+
+img.section18_1
+{
+    float: right;
+
+    margin-right: 270px;
+}
+
+h3.section18_2
+{
+    margin-left: 215px;
+}

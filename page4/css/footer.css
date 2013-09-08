@@ -1,0 +1,22 @@
+div.footer
+{
+    height: 74px;
+    background: url("../assets/body/background_footer.jpg");
+
+    text-align: center;
+
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: #675c48;
+    font-weight: lighter;
+}
+
+div.footer a
+{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: #675c48;
+    font-weight: lighter;
+
+    margin-left: 125px;
+}

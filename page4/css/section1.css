@@ -6,3 +6,85 @@ div.section1
     border-bottom: 1px solid #a4a093;
 
 }
+
+div.section1_0
+{
+    width: 108px;
+    height: 106px;
+
+    background: url("../assets/body/section1_pic0.png");
+
+    float: left;
+    margin-left: 35px;
+    margin-top: -10px;
+}
+
+div.section1_1
+{
+    float: left;
+    margin-left: 20px;
+}
+
+div.section1_1_0
+{
+    width: 109px;
+    height: 5px;
+
+    background-color: #ff0000;
+
+    position: relative;
+    top: -22px;
+}
+
+div.section1_2
+{
+    float: left;
+    margin-left: 20px;
+}
+
+div.section1_3
+{
+    float: left;
+    margin-left: 20px;
+}
+
+div.section1_3_0
+{
+    width:318px;
+    height:77px;
+
+    border-radius: 10px;
+    background-color: #ff0000;
+}
+
+div.section1_3_0:hover
+{
+    background: url("../assets/body/section1_button_hover.png");
+}
+
+div.section1_3_1
+{
+    width:318px;
+    height:62px;
+
+    border-radius: 10px;
+
+    background: url("../assets/body/section1_button_shadow.png");
+}
+
+div.section1_4
+{
+    width: 376px;
+    height: 79px;
+
+    background: url("../assets/body/section1_counter.png");
+
+    float: left;
+    margin-left: 20px;
+}
+
+#counter
+{
+   position: relative;
+    top: 100px;
+}

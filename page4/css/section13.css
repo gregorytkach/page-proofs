@@ -22,7 +22,8 @@ div.section13_0
 
     margin-left: 370px;
 
-    background: url("../assets/body/section13_button.png");
+    border-radius: 10px;
+    background-color: #ff0000;
 }
 
 div.section13_0:hover
@@ -36,6 +37,7 @@ div.section13_1
     height:63px;
 
     margin-left: 370px;
+    border-radius: 10px;
 
     background: url("../assets/body/section13_button_shadow.png");
 }

@@ -6,6 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
     //for internal use
+//TODO: make imageNames[] param
 function loadAssetsAsync()
 {
     //please implement this function in your project

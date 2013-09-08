@@ -1,0 +1,35 @@
+div.section27
+{
+    width: 100%;
+    height: 1150px;
+
+    border-top: 1px solid #f8f8f8;
+}
+
+div.section27_0
+{
+    width: 501px;
+    height: 183px;
+
+    background: url("../assets/body/section27_pic0.png");
+
+    margin-left: 330px;
+}
+
+div.section27_0 h3
+{
+    margin-left: 110px;
+}
+
+div.section27_1 h3
+{
+    float: right;
+
+    margin-right: 210px;
+    margin-left: 20px;
+}
+
+div.section27_1 h1
+{
+    margin-left: 160px;
+}

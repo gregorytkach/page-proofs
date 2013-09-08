@@ -1,0 +1,16 @@
+div.section21
+{
+    width: 100%;
+    height: 825px;
+
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid #a4a093;
+}
+
+div.section21 li
+{
+    list-style-image: url("../assets/list_item/list_item_red_dot.png");
+
+    margin-left: 240px;
+    padding-left: 20px;
+}
