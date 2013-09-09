@@ -9,8 +9,8 @@ function onLoad()
 {
     getSkypeStatus('alexyanovskyschool', 'smallicon', 'call', '#skype_icon');
 
-    startCountDown0();
-    startCountDown1();
+    startCountDown(0);
+    startCountDown(1);
 
     setTimeout(loadAssetsAsync, 1000);
 }
@@ -28,23 +28,27 @@ function getImageNames()
 }
 
 
-function startCountDown0()
+function startCountDown(counterNum)
 {
     var ts = (new Date()).getTime() + 10 * 24 * 60 * 60 * 1000;
 
-    $('#countdown').countdown(
+    var props =
+    {
+        counterNumber: counterNum,
+        timestamp: ts,
+        callback: function (days, hours, minutes, seconds)
         {
-            timestamp: ts,
-            callback: function (days, hours, minutes, seconds)
-            {
-                var message = "";
+            var message = "";
 
-                message += "Дней: " + days + ", ";
-                message += "часов: " + hours + ", ";
-                message += "минут: " + minutes + " и ";
-                message += "секунд: " + seconds + " <br/>";
-            }
-        });
+            message += "Дней: " + days + ", ";
+            message += "часов: " + hours + ", ";
+            message += "минут: " + minutes + " и ";
+            message += "секунд: " + seconds + " <br/>";
+        }
+    }
+
+    $('#countdown0').countdown(props);
+    $('#countdown1').countdown(props);
 }
 
 function startCountDown1()

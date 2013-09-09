@@ -2,73 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89af8882-e422-44c8-9a89-f341fd97ad7f" name="Default" comment="Merge branch 'master' of https://github.com/gregorytkach/page-proofs&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/counter0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/script/counter0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/counter1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/script/counter1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/script/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/page4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section17.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section18.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section19.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section20.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section21.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section22.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section23.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section24.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section25.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section26.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page4/css/section27.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page4/assets/body/section13_button.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_blue_dot.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_blue_dot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod1.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod2.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod3.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod4.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod5.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod6.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/assets/body/list_item_mod7.png" afterPath="$PROJECT_DIR$/page4/assets/list_item/list_item_mod7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/alex.png" afterPath="$PROJECT_DIR$/page4/assets/body/alex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/background.jpg" afterPath="$PROJECT_DIR$/page4/assets/body/background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/bryan.png" afterPath="$PROJECT_DIR$/page4/assets/body/bryan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section10_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section10_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section11_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section11_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section12_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section12_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section13_button_hover.png" afterPath="$PROJECT_DIR$/page4/assets/body/section13_button_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section13_button_shadow.png" afterPath="$PROJECT_DIR$/page4/assets/body/section13_button_shadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section13_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section13_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section16_pic0.jpg" afterPath="$PROJECT_DIR$/page4/assets/body/section16_pic0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section16_pic1.png" afterPath="$PROJECT_DIR$/page4/assets/body/section16_pic1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section2_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section2_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section2_pic1.png" afterPath="$PROJECT_DIR$/page4/assets/body/section2_pic1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section6_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section6_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section7_pic0.jpg" afterPath="$PROJECT_DIR$/page4/assets/body/section7_pic0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section8_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section8_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/assets/body/section9_pic0.png" afterPath="$PROJECT_DIR$/page4/assets/body/section9_pic0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/assetsLoader.js" afterPath="$PROJECT_DIR$/common/script/assetsLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/common.css" afterPath="$PROJECT_DIR$/page4/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page4/script/counter1.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/page4/script/counter0.js" afterPath="$PROJECT_DIR$/page4/script/counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page3/css/common.css" afterPath="$PROJECT_DIR$/page3/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/counter0.css" afterPath="$PROJECT_DIR$/page4/css/counter0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/counter1.css" afterPath="$PROJECT_DIR$/page4/css/counter1.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/index.html" afterPath="$PROJECT_DIR$/page4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section1.css" afterPath="$PROJECT_DIR$/page4/css/section1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section10.css" afterPath="$PROJECT_DIR$/page4/css/section10.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section11.css" afterPath="$PROJECT_DIR$/page4/css/section11.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section12.css" afterPath="$PROJECT_DIR$/page4/css/section12.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section13.css" afterPath="$PROJECT_DIR$/page4/css/section13.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section14.css" afterPath="$PROJECT_DIR$/page4/css/section14.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section15.css" afterPath="$PROJECT_DIR$/page4/css/section15.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section2.css" afterPath="$PROJECT_DIR$/page4/css/section2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section6.css" afterPath="$PROJECT_DIR$/page4/css/section6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section7.css" afterPath="$PROJECT_DIR$/page4/css/section7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section8.css" afterPath="$PROJECT_DIR$/page4/css/section8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/css/section9.css" afterPath="$PROJECT_DIR$/page4/css/section9.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStyles.css" afterPath="$PROJECT_DIR$/common/css/text/textStyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/css/text/textStylesBold.css" afterPath="$PROJECT_DIR$/common/css/text/textStylesBold.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.js" afterPath="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page4/script/main.js" afterPath="$PROJECT_DIR$/page4/script/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="page-proofs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378499582752" ignored="false" />
-    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378671108913" ignored="false" />
+    <file path="/Dummy.txt" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378710670643" ignored="false" />
+    <file path="/index.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378711087211" ignored="false" />
     <file path="/common.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378642103408" ignored="false" />
     <file path="/header.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378395310769" ignored="false" />
     <file path="/transparency.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375430164075" ignored="false" />
@@ -97,7 +45,7 @@
     <file path="/section6.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378509083223" ignored="false" />
     <file path="/section1.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378671938645" ignored="false" />
     <file path="/section12.html" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375506502136" ignored="false" />
-    <file path="/main.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378669465624" ignored="false" />
+    <file path="/main.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378711694357" ignored="false" />
     <file path="/section8.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378542861471" ignored="false" />
     <file path="/jquery.countdown.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1375950646894" ignored="false" />
     <file path="/section7.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378512300729" ignored="false" />
@@ -123,6 +71,12 @@
     <file path="/section26.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378656264058" ignored="false" />
     <file path="/section27.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378658876386" ignored="false" />
     <file path="/counter.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378672400048" ignored="false" />
+    <file path="/a.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378709662182" ignored="false" />
+    <file path="/a.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378709673246" ignored="false" />
+    <file path="/fragment.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378709731336" ignored="false" />
+    <file path="/jquery.countdown.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378709920799" ignored="false" />
+    <file path="/counter.js" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378711486658" ignored="false" />
+    <file path="/counter1.css" changelist="89af8882-e422-44c8-9a89-f341fd97ad7f" time="1378711751633" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,18 +99,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="169" column="23" selection-start="5824" selection-end="5824" vertical-scroll-proportion="-18.75">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#5;n#div#25;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.countdown.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+            <state line="1594" column="23" selection-start="50950" selection-end="50950" vertical-scroll-proportion="-4.66">
               <folding />
             </state>
           </provider>
@@ -165,36 +108,29 @@
       <file leaf-file-name="jquery.countdown.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="25" selection-start="0" selection-end="2848" vertical-scroll-proportion="0.0">
+            <state line="85" column="0" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1378329201000" expanded="true" signature="1754:1809" placeholder="..." />
-                <marker date="1378329201000" expanded="true" signature="1838:1893" placeholder="..." />
+                <marker date="1378709921000" expanded="true" signature="2285:2360" placeholder="..." />
+                <marker date="1378709921000" expanded="true" signature="2401:2476" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter0.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page4/script/counter0.js">
+      <file leaf-file-name="counter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page4/script/counter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="54" selection-start="0" selection-end="3729" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1378672808000" expanded="true" signature="2112:2194" placeholder="..." />
-                <marker date="1378672808000" expanded="true" signature="2235:2317" placeholder="..." />
-              </folding>
+            <state line="158" column="0" selection-start="4185" selection-end="4185" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page4/script/counter1.js">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page3/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="0" selection-start="3729" selection-end="3729" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#3729#3899#0" expanded="false" />
-                <marker date="1378673088000" expanded="true" signature="2112:2194" placeholder="..." />
-                <marker date="1378673088000" expanded="true" signature="2235:2317" placeholder="..." />
-              </folding>
+            <state line="12" column="1" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -202,34 +138,52 @@
       <file leaf-file-name="counter0.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page4/css/counter0.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="0" selection-end="1509" vertical-scroll-proportion="0.0">
+            <state line="106" column="0" selection-start="1312" selection-end="1312" vertical-scroll-proportion="-7.6153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter1.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="counter1.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page4/css/counter1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="0" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0">
+            <state line="13" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.33390412">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="popup.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page3/css/popup.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section_left.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page3/css/section_left.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="3" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page4/script/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="29" selection-start="733" selection-end="733" vertical-scroll-proportion="0.5037936">
+            <state line="13" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section1.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page4/css/section1.css">
+      <file leaf-file-name="jquery.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/script/jQuery/1.8.0/jquery.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="1" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -253,8 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/page4/css/section24.css" />
-        <option value="$PROJECT_DIR$/common/css/text/textStylesBold.css" />
         <option value="$PROJECT_DIR$/page4/css/section25.css" />
         <option value="$PROJECT_DIR$/page4/css/section26.css" />
         <option value="$PROJECT_DIR$/page4/css/section27.css" />
@@ -262,21 +214,45 @@
         <option value="$PROJECT_DIR$/page4/css/footer.css" />
         <option value="$PROJECT_DIR$/common/script/assetsLoader.js" />
         <option value="$PROJECT_DIR$/page4/css/section1.css" />
-        <option value="$PROJECT_DIR$/page4/index.html" />
         <option value="$PROJECT_DIR$/page4/css/counter.css" />
-        <option value="$PROJECT_DIR$/page4/script/counter.js" />
-        <option value="$PROJECT_DIR$/page4/css/counter0.css" />
         <option value="$PROJECT_DIR$/page4/script/counter1.js" />
-        <option value="$PROJECT_DIR$/page4/css/counter1.css" />
+        <option value="$PROJECT_DIR$/page3/css/common.css" />
+        <option value="$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.js" />
+        <option value="$PROJECT_DIR$/page4/css/counter0.css" />
+        <option value="$PROJECT_DIR$/page4/script/counter.js" />
         <option value="$PROJECT_DIR$/page4/script/main.js" />
+        <option value="$PROJECT_DIR$/page4/index.html" />
+        <option value="$PROJECT_DIR$/page4/css/counter1.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-21" />
+    <option name="x" value="435" />
     <option name="y" value="22" />
-    <option name="width" value="1270" />
+    <option name="width" value="1056" />
     <option name="height" value="1178" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -318,7 +294,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
+              <option name="myItemId" value="com.rateplay.page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,7 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
+              <option name="myItemId" value="com.rateplay.page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -342,7 +318,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
+              <option name="myItemId" value="com.rateplay.page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -360,7 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
+              <option name="myItemId" value="com.rateplay.page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -378,15 +354,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
+              <option name="myItemId" value="com.rateplay.page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="page3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -396,107 +368,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
+              <option name="myItemId" value="com.rateplay.page-proofs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="page3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jQuery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jqueryAdditions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jQuery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jqueryAdditions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countdown0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jQuery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page-proofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -508,14 +388,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.CSS" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/page0/index.html" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -529,7 +409,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.page2">
+  <component name="RunManager" selected="JavaScript Debug.page4">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -588,22 +468,12 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="page3" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="chrome" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/page3/index.html" />
-      </JSDebuggerConfigurationSettings>
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <list size="6">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.publish" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page0" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.page1" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page2" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page3" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page4" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page4" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -653,19 +523,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-21" y="22" width="1270" height="1178" extended-state="0" />
+    <frame x="435" y="22" width="1056" height="1178" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11720227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19647153" sideWeight="0.6710775" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39981097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19554695" sideWeight="0.60018903" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39981097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986331" sideWeight="0.2731569" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -733,41 +603,35 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/page4/script/counter.js</url>
+          <line>79</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/page4/script/counter.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/page4/script/main.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/page4/script/counter.js</url>
+          <line>97</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/script/assetsLoader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="210" selection-end="210" vertical-scroll-proportion="0.19769357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page4/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="368" selection-end="368" vertical-scroll-proportion="0.51894563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page4/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="50" selection-start="249" selection-end="249" vertical-scroll-proportion="0.4040404">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page3/css/section_left.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="3" selection-start="860" selection-end="860" vertical-scroll-proportion="1.0378913">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page3/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -800,63 +664,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page4/index.html">
+    <entry file="file://$PROJECT_DIR$/page3/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="169" column="23" selection-start="5824" selection-end="5824" vertical-scroll-proportion="-18.75">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#5;n#div#25;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page3/css/popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page3/css/section_left.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="3" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page3/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/script/jQuery/jqueryAdditions/countdown0/jquery.countdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="25" selection-start="0" selection-end="2848" vertical-scroll-proportion="0.0">
+        <state line="85" column="0" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1378329201000" expanded="true" signature="1754:1809" placeholder="..." />
-            <marker date="1378329201000" expanded="true" signature="1838:1893" placeholder="..." />
+            <marker date="1378709921000" expanded="true" signature="2285:2360" placeholder="..." />
+            <marker date="1378709921000" expanded="true" signature="2401:2476" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page4/script/counter0.js">
+    <entry file="file://$PROJECT_DIR$/common/script/jQuery/1.8.0/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="54" selection-start="0" selection-end="3729" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1378672808000" expanded="true" signature="2112:2194" placeholder="..." />
-            <marker date="1378672808000" expanded="true" signature="2235:2317" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page4/script/counter1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="0" selection-start="3729" selection-end="3729" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#3729#3899#0" expanded="false" />
-            <marker date="1378673088000" expanded="true" signature="2112:2194" placeholder="..." />
-            <marker date="1378673088000" expanded="true" signature="2235:2317" placeholder="..." />
-          </folding>
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page4/css/counter0.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="0" selection-end="1509" vertical-scroll-proportion="0.0">
+        <state line="106" column="0" selection-start="1312" selection-end="1312" vertical-scroll-proportion="-7.6153846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page4/css/counter1.css">
+    <entry file="file://$PROJECT_DIR$/page4/script/counter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="0" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0">
+        <state line="158" column="0" selection-start="4185" selection-end="4185" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page4/script/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="733" selection-end="733" vertical-scroll-proportion="0.5037936">
+        <state line="13" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1594" column="23" selection-start="50950" selection-end="50950" vertical-scroll-proportion="-4.66">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page4/css/counter1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.33390412">
           <folding />
         </state>
       </provider>

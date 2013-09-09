@@ -1,4 +1,4 @@
-.countdownHolder
+.countdownHolder1
 {
     width: 410px;
     margin: 0 auto;
@@ -9,12 +9,12 @@
     color: #000000;
 }
 
-.timer
+.timer1
 {
     color: #000000;
 }
 
-.position
+.position1
 {
     display: inline-block;
     height: 1.6em;
@@ -23,7 +23,7 @@
     width: 1.45em;
 }
 
-.digit
+.digit1
 {
     font-family: Scada, sans-serif;
     font-size: 51px;
@@ -37,47 +37,47 @@
     color: #000000;
 }
 
-.countDays .position
+.countDays1 .position1
 {
     left: 0;
 }
 
-.countDays span.position+span.position
+.countDays1 span.position1+span.position1
 {
     left: -30px;
 }
 
-.countHours .position
+.countHours1 .position1
 {
-    left: 0px;
+    left: 0;
 }
 
-.countHours span.position+span.position
+.countHours1 span.position1+span.position1
 {
     left: -30px;
 }
 
-.countMinutes .position
+.countMinutes1 .position1
 {
     left: 8px;
 }
 
-.countMinutes span.position+span.position
+.countMinutes1 span.position1+span.position1
 {
     left: -20px;
 }
 
-.countSeconds .position
+.countSeconds1 .position1
 {
     left: 15px;
 }
 
-.countSeconds span.position+span.position
+.countSeconds1 span.position1+span.position1
 {
     left: -15px;
 }
 
-.countDays
+.countDays1
 {
     position: absolute;
     top: 16px;
@@ -86,7 +86,7 @@
     left: 3px;
 }
 
-.countHours
+.countHours1
 {
     position: absolute;
     top: 16px;
@@ -95,7 +95,7 @@
     left: 95px;
 }
 
-.countMinutes
+.countMinutes1
 {
     position: absolute;
     top: 16px;
@@ -104,11 +104,7 @@
     left: 183px;
 }
 
-.countDiv2
-{
-}
-
-.countSeconds
+.countSeconds1
 {
     position: absolute;
     top: 16px;
@@ -123,4 +119,8 @@
     width: 16px;
     height: 1.6em;
     position: relative;
+}
+
+.countDiv2
+{
 }

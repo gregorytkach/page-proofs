@@ -17,6 +17,7 @@
     // Создаем плагин
     $.fn.countdown = function (prop)
     {
+        var counterNumber = prop.hasOwnProperty("counterNumber") ? prop.counterNumber : "";
 
         var options = $.extend(
             {
@@ -31,7 +32,9 @@
         // инициализируем плагин
         init(this, options);
 
-        positions = this.find('.position');
+        var positionName = '.position' + counterNumber;
+
+        positions = this.find(positionName);
 
         (function tick()
         {
@@ -73,8 +76,9 @@
         // Данная функция обновляет две цифоровые позиции за один раз
         function updateDuo(minor, major, value)
         {
-            switchDigit(positions.eq(minor), Math.floor(value / 10) % 10);
-            switchDigit(positions.eq(major), value % 10);
+
+            switchDigit(counterNumber, positions.eq(minor), Math.floor(value / 10) % 10);
+            switchDigit(counterNumber, positions.eq(major), value % 10);
         }
 
         return this;
@@ -83,19 +87,20 @@
 
     function init(elem, options)
     {
-        elem.addClass('countdownHolder');
+        var counterNumber = options.hasOwnProperty("counterNumber") ? options.counterNumber : "";
+
+        var countdownHolderName = 'countdownHolder' + counterNumber;
+        elem.addClass(countdownHolderName);
 
         // Создаем разметку внутри контейнера
         $.each(['Days', 'Hours', 'Minutes', 'Seconds'], function (i)
         {
-            $('<span class="count' + this + '">').html(
-                '<span class="position">\
-                    <span class="digit">0</span>\
-                </span>\
-                <span class="position">\
-                    <span class="digit">0</span>\
-                </span>'
-            ).appendTo(elem);
+            var spanCountObj = '<span class="count' + this + counterNumber + '">';
+
+            var spanDigitObj = '<span class="digit' + counterNumber + '">0</span>';
+            var spanPositionObj = '<span class="position' + counterNumber + '">' + spanDigitObj + '</span>';
+
+            $(spanCountObj).html(spanPositionObj + spanPositionObj).appendTo(elem);
 
             if (this != "Seconds")
             {
@@ -105,34 +110,35 @@
 
     }
 
-    // Создаем анимированный переход между двумя цифрами
-    function switchDigit(position, number)
-    {
 
-        var digit = position.find('.digit')
+    // Создаем анимированный переход между двумя цифрами
+    function switchDigit(counterNumber, position, number)
+    {
+        var digitName = 'digit' + counterNumber;
+
+        var digit = position.find('.' + digitName)
 
         if (digit.is(':animated'))
         {
             return false;
         }
 
-        if (position.data('digit') == number)
+        if (position.data(digitName) == number)
         {
             // Мы уже вывели данную цифру
             return false;
         }
 
-        position.data('digit', number);
+        position.data(digitName, number);
 
-        var replacement = $('<span>',
-            {
-                'class': 'digit',
-                css: {
-                    top: '-2.1em',
-                    opacity: 0
-                },
-                html: number
-            });
+        var replacement = $('<span>', {
+            'class': digitName,
+            css: {
+                top: '-2.1em',
+                opacity: 0
+            },
+            html: number
+        });
 
         // Класс .static добавляется, когда завершается анимация.
         // Выполнение идет более плавно.
@@ -146,6 +152,15 @@
 
         replacement
             .delay(100)
-            .animate({top: 0, opacity: 1}, 'fast', null);
+            .animate({top: 0, opacity: 1}, 'fast', function ()
+            {
+            });
     }
 })(jQuery);
+/**
+ * Created with JetBrains WebStorm.
+ * User: aleksandrabelyaeva
+ * Date: 9/8/13
+ * Time: 11:39 PM
+ * To change this template use File | Settings | File Templates.
+ */

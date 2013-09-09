@@ -1,8 +1,10 @@
-body.default_body {
+body.default_body
+{
     background-color: #2a464f;
 }
 
-div.content {
+div.content
+{
     width: 1200px;
     height: 709px;
 
