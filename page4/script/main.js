@@ -47,8 +47,8 @@ function startCountDown(counterNum)
         }
     }
 
-    $('#countdown0').countdown(props);
-    $('#countdown1').countdown(props);
+    var countdownName = '#countdown' + counterNum;
+    $(countdownName).countdown(props);
 }
 
 function startCountDown1()

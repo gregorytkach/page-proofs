@@ -102,10 +102,10 @@
 
             $(spanCountObj).html(spanPositionObj + spanPositionObj).appendTo(elem);
 
-            if (this != "Seconds")
-            {
-                elem.append('<span class="countDiv countDiv' + i + '"></span>');
-            }
+//            if (this != "Seconds")
+//            {
+//                elem.append('<span class="countDiv countDiv' + i + '"></span>');
+//            }
         });
 
     }

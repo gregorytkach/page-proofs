@@ -2,7 +2,7 @@
   <configuration default="false" name="page4" type="JavascriptDebugSession" factoryName="Local">
     <JSDebuggerConfigurationSettings>
       <option name="engineId" value="chrome" />
-      <option name="fileUrl" value="file://$PROJECT_DIR$/page4/index.html#current" />
+      <option name="fileUrl" value="file://$PROJECT_DIR$/page4/index.html" />
     </JSDebuggerConfigurationSettings>
     <RunnerSettings RunnerId="JavascriptDebugRunner" />
     <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
